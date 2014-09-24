@@ -25,6 +25,7 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 
 DROPBOX_DIR=~/Dropbox/Public/
 
+GITHUB_PAGES_BRANCH=gh-pages
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
@@ -48,6 +49,7 @@ help:
 	@echo '   make s3_upload                   upload the web site via S3         '
 	@echo '   make cf_upload                   upload the web site via Cloud Files'
 	@echo '   make github                      upload the web site via gh-pages   '
+	@echo '   make travis                      travis upload via gh-pages         '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -101,9 +103,13 @@ s3_upload: publish
 cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
-github: publish
+travis: publish
 ifeq ($(TRAVIS_PULL_REQUEST), false)
 	ghp-import -n $(OUTPUTDIR)
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git gh-pages > /dev/null
 endif
+github: publish
+	ghp-import -n -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	git push origin $(GITHUB_PAGES_BRANCH)
+
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
