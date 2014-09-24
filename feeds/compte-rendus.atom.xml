@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/compte-rendus.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-09-23T00:00:00+02:00</updated><entry><title>Rencontres Salt à Mozilla Paris</title><link href="http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html" rel="alternate"></link><updated>2014-09-23T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-23:rencontres-salt-a-mozilla-paris.html</id><summary type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
+locaux de &lt;a class="reference external" href="https://wiki.mozilla.org/Paris"&gt;Mozilla Paris&lt;/a&gt;, merci à eux!&lt;/p&gt;
+&lt;p&gt;Pour la partie du public qui découvrait salt, Arthur Lutz de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une introduction à Salt.&lt;/p&gt;
+&lt;img alt="Arthur Lutz" src="./images/salt-sept-2014-01.jpg" /&gt;
+&lt;p&gt;Cyril Lavier nous à présenté l'utilisation de Salt chez &lt;a class="reference external" href="http://www.webedia.fr/"&gt;Webedia&lt;/a&gt;. Voici les slides :
+&lt;a class="reference external" href="/presentations/webedia-salt.pdf"&gt;/presentations/webedia-salt.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="Cyril Lavier" src="./images/salt-sept-2014-04.jpg" /&gt;
+&lt;p&gt;Paul Tonelli nous a présenté une utilisation de la &lt;a class="reference external" href="http://docs.saltstack.com/en/latest/topics/mine/"&gt;mine salt&lt;/a&gt; pour gérer des
+fichier de zone automatiquement avec salt. Voici les slides:
+&lt;a class="reference external" href="http://docs.logilab.org/salt_dns/"&gt;http://docs.logilab.org/salt_dns/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feth Arezki de &lt;a class="reference external" href="http://majerti.fr/"&gt;Majerti&lt;/a&gt; a présenté
+&lt;a class="reference external" href="https://github.com/majerteam/samba_report_module"&gt;samba_report_module&lt;/a&gt; qui produit du
+json utilisé par le projet &lt;a class="reference external" href="https://github.com/majerteam/samba_report_html"&gt;samba_report_html&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="Feth Arezki" src="./images/salt-sept-2014-05.jpg" /&gt;
+&lt;p&gt;Nicolas Pierron nous a montré une autre facon de penser la gestion de
+configuration en nous présentant la distribution linux &lt;a class="reference external" href="http://nixos.org/"&gt;NixOS&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="Nicolas Pierron" src="./images/salt-sept-2014-03.jpg" /&gt;
+&lt;p&gt;Forcément, nous avons fini la soirée autour d'une pizza payée par
+&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; et quelques boissons fournies par
+&lt;a class="reference external" href="http://www.mozilla.org"&gt;Mozilla&lt;/a&gt;. Merci à eux !&lt;/p&gt;
+&lt;img alt="Pizza!" src="./images/salt-sept-2014-02.jpg" /&gt;
+&lt;p&gt;Pour les prochains meetups n'oubliez pas &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;le document collaboratif
+d'organisation&lt;/a&gt; sur lequel
+vous pouvez faire des propositions de présentations. Vous pouvez aussi
+voter pour la date du &lt;a class="reference external" href="http://framadate.org/emr4ccijuvnxqctz"&gt;meetup de novembre 2014&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="cr"></category><category term="mozilla"></category><category term="samba"></category><category term="nixos"></category><category term="lx"></category><category term="dns"></category><category term="dhcp"></category></entry></feed>

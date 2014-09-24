@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/salt-fr.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 19 Sep 2014 00:00:00 +0200</lastBuildDate><item><title>Annonce : Meetup Salt Paris - Septembre 2014</title><link>http://salt-fr.afpy.org/annonce-meetup-salt-paris-septembre-2014.html</link><description>&lt;p&gt;Voici notre petit sélection pour démarrer notre meetup de la semaine
+prochaine (mardi 23 septembre 2014 à 19h dans les locaux de de Mozilla
+Paris)  :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Retour d’expérience déploiement Salt chez Webedia (Cyril Lavier -&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;&lt;a class="reference external" href="http://www.webedia.com"&gt;Webedia&lt;/a&gt;)&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Génération de fichiers de zone internes par salt (Paul Tonelli -
+&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Construire du monitoring de serveurs avec Salt et du HTML/javascript
+(Feth Arezki - &lt;a class="reference external" href="http://www.majerti.fr"&gt;Majerti&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si un certain nombre de personnes de l'assistance ne connaissent pas
+Salt, on pourra se charger d'une petite introduction (avec des vieux
+slides).&lt;/p&gt;
+&lt;p&gt;N'oubliez pas de vous inscrire sur &lt;a class="reference external" href="http://framadate.org/u85rt2y3iz1krhys"&gt;http://framadate.org/u85rt2y3iz1krhys&lt;/a&gt;
+c'est important car Mozilla a besoin d'un nombre d'inscrits pour des
+questions de sécurité (et pour offrir à boire).&lt;/p&gt;
+&lt;p&gt;Pour rappel les locaux de Mozilla Paris c'est au :&lt;/p&gt;
+&lt;p&gt;16 Bis Blvd. Montmartre
+Paris 75009
+France&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Salt-fr</dc:creator><pubDate>Fri, 19 Sep 2014 00:00:00 +0200</pubDate><guid>tag:salt-fr.afpy.org,2014-09-19:annonce-meetup-salt-paris-septembre-2014.html</guid></item></channel></rss>

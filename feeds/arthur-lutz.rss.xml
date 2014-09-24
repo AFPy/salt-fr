@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/arthur-lutz.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 23 Sep 2014 00:00:00 +0200</lastBuildDate><item><title>Rencontres Salt à Mozilla Paris</title><link>http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html</link><description>&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
+locaux de &lt;a class="reference external" href="https://wiki.mozilla.org/Paris"&gt;Mozilla Paris&lt;/a&gt;, merci à eux!&lt;/p&gt;
+&lt;p&gt;Pour la partie du public qui découvrait salt, Arthur Lutz de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une introduction à Salt.&lt;/p&gt;
+&lt;img alt="Arthur Lutz" src="./images/salt-sept-2014-01.jpg" /&gt;
+&lt;p&gt;Cyril Lavier nous à présenté l'utilisation de Salt chez &lt;a class="reference external" href="http://www.webedia.fr/"&gt;Webedia&lt;/a&gt;. Voici les slides :
+&lt;a class="reference external" href="/presentations/webedia-salt.pdf"&gt;/presentations/webedia-salt.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="Cyril Lavier" src="./images/salt-sept-2014-04.jpg" /&gt;
+&lt;p&gt;Paul Tonelli nous a présenté une utilisation de la &lt;a class="reference external" href="http://docs.saltstack.com/en/latest/topics/mine/"&gt;mine salt&lt;/a&gt; pour gérer des
+fichier de zone automatiquement avec salt. Voici les slides:
+&lt;a class="reference external" href="http://docs.logilab.org/salt_dns/"&gt;http://docs.logilab.org/salt_dns/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feth Arezki de &lt;a class="reference external" href="http://majerti.fr/"&gt;Majerti&lt;/a&gt; a présenté
+&lt;a class="reference external" href="https://github.com/majerteam/samba_report_module"&gt;samba_report_module&lt;/a&gt; qui produit du
+json utilisé par le projet &lt;a class="reference external" href="https://github.com/majerteam/samba_report_html"&gt;samba_report_html&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="Feth Arezki" src="./images/salt-sept-2014-05.jpg" /&gt;
+&lt;p&gt;Nicolas Pierron nous a montré une autre facon de penser la gestion de
+configuration en nous présentant la distribution linux &lt;a class="reference external" href="http://nixos.org/"&gt;NixOS&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="Nicolas Pierron" src="./images/salt-sept-2014-03.jpg" /&gt;
+&lt;p&gt;Forcément, nous avons fini la soirée autour d'une pizza payée par
+&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; et quelques boissons fournies par
+&lt;a class="reference external" href="http://www.mozilla.org"&gt;Mozilla&lt;/a&gt;. Merci à eux !&lt;/p&gt;
+&lt;img alt="Pizza!" src="./images/salt-sept-2014-02.jpg" /&gt;
+&lt;p&gt;Pour les prochains meetups n'oubliez pas &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;le document collaboratif
+d'organisation&lt;/a&gt; sur lequel
+vous pouvez faire des propositions de présentations. Vous pouvez aussi
+voter pour la date du &lt;a class="reference external" href="http://framadate.org/emr4ccijuvnxqctz"&gt;meetup de novembre 2014&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arthur Lutz</dc:creator><pubDate>Tue, 23 Sep 2014 00:00:00 +0200</pubDate><guid>tag:salt-fr.afpy.org,2014-09-23:rencontres-salt-a-mozilla-paris.html</guid><category>cr</category><category>mozilla</category><category>samba</category><category>nixos</category><category>lx</category><category>dns</category><category>dhcp</category></item><item><title>Annonce : Meetup Salt Paris - Septembre 2014</title><link>http://salt-fr.afpy.org/annonce-meetup-salt-paris-septembre-2014.html</link><description>&lt;p&gt;Voici notre petit sélection pour démarrer notre meetup de la semaine
+prochaine (mardi 23 septembre 2014 à 19h dans les locaux de de Mozilla
+Paris)  :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Retour d’expérience déploiement Salt chez Webedia (Cyril Lavier -
+&lt;a class="reference external" href="http://www.webedia.com"&gt;Webedia&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Génération de fichiers de zone internes par salt (Paul Tonelli -
+&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Construire du monitoring de serveurs avec Salt et du HTML/javascript
+(Feth Arezki - &lt;a class="reference external" href="http://www.majerti.fr"&gt;Majerti&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si un certain nombre de personnes de l'assistance ne connaissent pas
+Salt, on pourra se charger d'une petite introduction (avec des vieux
+slides).&lt;/p&gt;
+&lt;p&gt;N'oubliez pas de vous inscrire sur &lt;a class="reference external" href="http://framadate.org/u85rt2y3iz1krhys"&gt;http://framadate.org/u85rt2y3iz1krhys&lt;/a&gt;
+c'est important car Mozilla a besoin d'un nombre d'inscrits pour des
+questions de sécurité (et pour offrir à boire).&lt;/p&gt;
+&lt;p&gt;Pour rappel les locaux de Mozilla Paris c'est au :&lt;/p&gt;
+&lt;p&gt;16 Bis Blvd. Montmartre
+Paris 75009
+France&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arthur Lutz</dc:creator><pubDate>Fri, 19 Sep 2014 00:00:00 +0200</pubDate><guid>tag:salt-fr.afpy.org,2014-09-19:annonce-meetup-salt-paris-septembre-2014.html</guid><category>annonces</category></item><item><title>Hello World</title><link>http://salt-fr.afpy.org/hello-world.html</link><description>&lt;p&gt;Hello World.&lt;/p&gt;
+&lt;p&gt;Les meetups existent depuis XX.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.logilab.org/bookmark/264279/follow"&gt;Quelques comptes rendus des éditions précédentes.&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arthur Lutz</dc:creator><pubDate>Tue, 09 Sep 2014 00:00:00 +0200</pubDate><guid>tag:salt-fr.afpy.org,2014-09-09:hello-world.html</guid><category>hello</category></item></channel></rss>
