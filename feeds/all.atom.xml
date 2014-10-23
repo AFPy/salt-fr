@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-09-23T00:00:00+02:00</updated><entry><title>Rencontres Salt à Mozilla Paris</title><link href="http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html" rel="alternate"></link><updated>2014-09-23T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-23:rencontres-salt-a-mozilla-paris.html</id><summary type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-10-21T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt Paris - Novembre 2014</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-novembre-2014.html" rel="alternate"></link><updated>2014-10-21T00:00:00+02:00</updated><author><name>Boris Feld</name></author><id>tag:salt-fr.afpy.org,2014-10-21:annonce-meetup-salt-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;Oyez, oyez salters, notre prochain meetup se déroulera le mardi 18
+novembre à partir de 19h chez tinyclues qui est fier de nous héberger
+et de pouvoir sponsoriser cet évènement.&lt;/p&gt;
+&lt;p&gt;Voici la liste des présentations qui seront données :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Salt et la gestion d'un parc de postes utilisateurs, &lt;a class="reference external" href="http://caskroom.io/"&gt;homebrew cask&lt;/a&gt; pour Mac et &lt;a class="reference external" href="http://chocolatey.org/"&gt;chocolatey&lt;/a&gt; pour Windows (Aurélien Minet - &lt;a class="reference external" href="http://www.ens-cachan.fr/"&gt;ENS
+Cachan&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Runners et modules pour générer des statistiques d´écart de
+l'infrastructure par rapport à sa définition (Arthur Lutz - &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;SaltPad, l'interface que votre infrastructure mérite (Boris Feld -
+&lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Malheureusement, le nombre de place est limité à 30 personnes, donc
+dépêchez-vous de vous inscrire ici :
+&lt;a class="reference external" href="http://framadate.org/n8u9e8ib1ffggdmt"&gt;http://framadate.org/n8u9e8ib1ffggdmt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vous pouvez aussi vous inscrire sur le meetup pour suivre les
+actualités du groupe : &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/"&gt;http://www.meetup.com/Paris-Salt-Meetup/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; nous offrira de quoi nous
+désaltérer et &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; nous fournira de quoi
+remplir nos estomacs, d'ailleurs si vous voulez autre chose que des
+pizzas, merci de répondre au sondage sur la &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;mailing-list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Les locaux de tinyclues c'est au&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+15, rue du Caire
+75002 Paris
+France
+
+Métro Réaumur - Sébastopol ou Strasbourg Saint-Denis.
+&lt;/pre&gt;
+&lt;p&gt;En espérant vous voir nombreux, saltez bien !&lt;/p&gt;
+</summary><category term="annonces"></category></entry><entry><title>Rencontres Salt à Mozilla Paris</title><link href="http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html" rel="alternate"></link><updated>2014-09-23T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-23:rencontres-salt-a-mozilla-paris.html</id><summary type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
 locaux de &lt;a class="reference external" href="https://wiki.mozilla.org/Paris"&gt;Mozilla Paris&lt;/a&gt;, merci à eux!&lt;/p&gt;
 &lt;p&gt;Pour la partie du public qui découvrait salt, Arthur Lutz de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une introduction à Salt.&lt;/p&gt;
 &lt;img alt="Arthur Lutz" src="./images/salt-sept-2014-01.jpg" /&gt;
