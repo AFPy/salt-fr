@@ -3,7 +3,7 @@ Annonce : Logilab présente Saltstack le 3 novembre à la cantine Toulouse
 
 
 :date: 2014-10-24
-:tags: annonces
+:tags: annonces, toulouse, la cantine
 :category: annonces
 :author: Denis Laxalde
 :email: denis.laxalde@logilab.fr
