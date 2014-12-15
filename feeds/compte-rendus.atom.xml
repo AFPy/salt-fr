@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/compte-rendus.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-09-23T00:00:00+02:00</updated><entry><title>Rencontres Salt à Mozilla Paris</title><link href="http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html" rel="alternate"></link><updated>2014-09-23T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-23:rencontres-salt-a-mozilla-paris.html</id><summary type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/compte-rendus.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-12-11T00:00:00+01:00</updated><entry><title>Compte rendu Salt Meetup Paris - novembre 2014</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-novembre-2014.html" rel="alternate"></link><updated>2014-12-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-12-11:compte-rendu-salt-meetup-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;La communauté Salt s'est a nouveau réunie pour son meetup bi-mestriel
+autour de trois présentations. Voici un compte rendu (très court) pour
+vous renvoyer vers les références.&lt;/p&gt;
+&lt;div class="section" id="utilisation-de-salt-pour-gerer-des-machines-desktop-sous-windows-et-mac-os"&gt;
+&lt;h2&gt;Utilisation de salt pour gérer des machines desktop sous windows et mac os.&lt;/h2&gt;
+&lt;p&gt;Aurélien Minet de l'&lt;a class="reference external" href="http://www.ens-cachan.fr/"&gt;ENS  Cachan&lt;/a&gt; nous a présenté son utilisation de salt dans la gestion de postes utilisateurs OS X et Windows.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;OS X:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://brew.sh/"&gt;Homebrew — The missing package manager for OS X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.brew.html"&gt;salt.modules.brew&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://caskroom.io/"&gt;Homebrew Cask&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Windows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/"&gt;salt.modules.win_*&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.chocolatey.html#module-salt.modules.chocolatey"&gt;salt.modules.chocolatey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.reg.html#module-salt.modules.reg"&gt;salt.modules.reg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pour chocolatey, possibilité d'héberger un repo sous linux avec
+&lt;a class="reference external" href="https://github.com/Daniel15/simple-nuget-server"&gt;Simple Nuget&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mise en commun d'installeurs windows sous forme de states sur
+&lt;a class="reference external" href="https://github.com/saltstack/salt-winrepo"&gt;salt-winrepo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Support de présentation à venir&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="creation-de-statistiques-pour-une-infrastructure-salt"&gt;
+&lt;h2&gt;Création de statistiques  pour une infrastructure salt&lt;/h2&gt;
+&lt;p&gt;Arthur Lutz de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; nous a présenté un
+développement pour évaluer la distance entre l'état souhaité de son
+infrastructure salt et l'état réel.&lt;/p&gt;
+&lt;img alt="Arthur Lutz" src="./images/salt-nov-2014-arthur.jpg" /&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://slides.logilab.fr/salt-meetup-stats/"&gt;Support de présentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://bitbucket.org/arthurlogilab/salt-highstate-stats"&gt;Code sur bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="saltpad"&gt;
+&lt;h2&gt;SaltPad&lt;/h2&gt;
+&lt;img alt="Boris Feld" src="./images/salt-nov-2014-boris.jpg" /&gt;
+&lt;p&gt;Boris Feld de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; nous a présenté
+une interface web pour piloter salt.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://speakerdeck.com/lothiraldan/saltpad-the-web-gui-your-infrastructure-deserves"&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/tinyclues/saltpad"&gt;Code sur github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conclusion"&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Merci à &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; d'avoir acceuilli et
+apporté à boire, ainsi qu'à &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; pour
+les pizzas.&lt;/p&gt;
+&lt;p&gt;Pour le prochain meetup (en janvier), votez pour une date sur
+&lt;a class="reference external" href="https://framadate.org/4cf63j6i23vbaeem"&gt;framadate&lt;/a&gt; et n'hésitez pas
+à inscrire une proposition de présentation ou de lieu sur le &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;pad
+d'organisation&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="cr"></category><category term="tinyclues"></category><category term="stats"></category><category term="ui"></category><category term=""></category></entry><entry><title>Rencontres Salt à Mozilla Paris</title><link href="http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html" rel="alternate"></link><updated>2014-09-23T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-23:rencontres-salt-a-mozilla-paris.html</id><summary type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
 locaux de &lt;a class="reference external" href="https://wiki.mozilla.org/Paris"&gt;Mozilla Paris&lt;/a&gt;, merci à eux!&lt;/p&gt;
 &lt;p&gt;Pour la partie du public qui découvrait salt, Arthur Lutz de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une introduction à Salt.&lt;/p&gt;
 &lt;img alt="Arthur Lutz" src="./images/salt-sept-2014-01.jpg" /&gt;

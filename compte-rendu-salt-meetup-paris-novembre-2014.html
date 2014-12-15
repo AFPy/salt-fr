@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Salt-fr, Rencontres des utilisateurs francophones de Salt">
+
+        <link rel="alternate"  href="http://salt-fr.afpy.org/feeds/all.atom.xml" type="application/atom+xml" title="Salt-fr Full Atom Feed"/>
+
+        <title>Compte rendu Salt Meetup Paris - novembre 2014 // Salt-fr // Rencontres des utilisateurs francophones de Salt</title>
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/theme/css/pure.css">
+    <link rel="stylesheet" href="http://salt-fr.afpy.org/theme/css/pygments.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
+</head>
+
+<body>
+<div class="pure-g-r" id="layout">
+    <div class="sidebar sidebar-article pure-u">
+        <header class="header-article">
+            <hgroup>
+                <a href="http://salt-fr.afpy.org/author/arthur-lutz.html" title="See posts by Arthur Lutz">
+                        <img class="avatar" alt="Arthur Lutz" src="http://www.gravatar.com/avatar/37aa62b37005a57f8e2b261091d65a03">
+                </a>
+                <h2 class="article-info">Arthur Lutz</h2>
+                <small class="about-author"></small>
+                <h5>Published</h5>
+                <p>jeu. 11 décembre 2014</p>
+                <a href="/">&larr;Home</a>
+            </hgroup>
+        </header>
+    </div>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Compte rendu Salt Meetup Paris - novembre 2014</h1>
+                        <p class="post-meta">
+                            // under                                 <a class="post-category" href="http://salt-fr.afpy.org/tag/cr.html">cr</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/tinyclues.html">tinyclues</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/stats.html">stats</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/ui.html">ui</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/.html"></a>
+                        </p>
+                </header>
+            </section>
+            <p>La communauté Salt s'est a nouveau réunie pour son meetup bi-mestriel
+autour de trois présentations. Voici un compte rendu (très court) pour
+vous renvoyer vers les références.</p>
+<div class="section" id="utilisation-de-salt-pour-gerer-des-machines-desktop-sous-windows-et-mac-os">
+<h2>Utilisation de salt pour gérer des machines desktop sous windows et mac os.</h2>
+<p>Aurélien Minet de l'<a class="reference external" href="http://www.ens-cachan.fr/">ENS  Cachan</a> nous a présenté son utilisation de salt dans la gestion de postes utilisateurs OS X et Windows.</p>
+<ul>
+<li><p class="first">OS X:</p>
+<blockquote>
+<ul class="simple">
+<li><a class="reference external" href="http://brew.sh/">Homebrew — The missing package manager for OS X</a></li>
+<li><a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.brew.html">salt.modules.brew</a></li>
+<li><a class="reference external" href="http://caskroom.io/">Homebrew Cask</a></li>
+</ul>
+</blockquote>
+</li>
+<li><p class="first">Windows:</p>
+<blockquote>
+<ul class="simple">
+<li><a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/">salt.modules.win_*</a></li>
+<li><a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.chocolatey.html#module-salt.modules.chocolatey">salt.modules.chocolatey</a></li>
+<li><a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.reg.html#module-salt.modules.reg">salt.modules.reg</a></li>
+<li>pour chocolatey, possibilité d'héberger un repo sous linux avec
+<a class="reference external" href="https://github.com/Daniel15/simple-nuget-server">Simple Nuget</a></li>
+<li>Mise en commun d'installeurs windows sous forme de states sur
+<a class="reference external" href="https://github.com/saltstack/salt-winrepo">salt-winrepo</a></li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<p><em>Support de présentation à venir</em>.</p>
+</div>
+<div class="section" id="creation-de-statistiques-pour-une-infrastructure-salt">
+<h2>Création de statistiques  pour une infrastructure salt</h2>
+<p>Arthur Lutz de <a class="reference external" href="http://www.logilab.fr">Logilab</a> nous a présenté un
+développement pour évaluer la distance entre l'état souhaité de son
+infrastructure salt et l'état réel.</p>
+<img alt="Arthur Lutz" src="./images/salt-nov-2014-arthur.jpg" />
+<ul class="simple">
+<li><a class="reference external" href="http://slides.logilab.fr/salt-meetup-stats/">Support de présentation</a></li>
+<li><a class="reference external" href="https://bitbucket.org/arthurlogilab/salt-highstate-stats">Code sur bitbucket</a></li>
+</ul>
+</div>
+<div class="section" id="saltpad">
+<h2>SaltPad</h2>
+<img alt="Boris Feld" src="./images/salt-nov-2014-boris.jpg" />
+<p>Boris Feld de <a class="reference external" href="http://www.tinyclues.com/">tinyclues</a> nous a présenté
+une interface web pour piloter salt.</p>
+<ul class="simple">
+<li><a class="reference external" href="https://speakerdeck.com/lothiraldan/saltpad-the-web-gui-your-infrastructure-deserves">Slides</a></li>
+<li><a class="reference external" href="https://github.com/tinyclues/saltpad">Code sur github</a></li>
+</ul>
+</div>
+<div class="section" id="conclusion">
+<h2>Conclusion</h2>
+<p>Merci à <a class="reference external" href="http://www.tinyclues.com/">tinyclues</a> d'avoir acceuilli et
+apporté à boire, ainsi qu'à <a class="reference external" href="http://www.logilab.fr">Logilab</a> pour
+les pizzas.</p>
+<p>Pour le prochain meetup (en janvier), votez pour une date sur
+<a class="reference external" href="https://framadate.org/4cf63j6i23vbaeem">framadate</a> et n'hésitez pas
+à inscrire une proposition de présentation ou de lieu sur le <a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups">pad
+d'organisation</a>.</p>
+</div>
+
+            <div class="hr"></div>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; Salt-fr &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+</div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>
