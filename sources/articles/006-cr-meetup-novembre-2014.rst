@@ -44,7 +44,7 @@ Aurélien Minet de l'`ENS  Cachan <http://www.ens-cachan.fr/>`_ nous a présent�
     * Mise en commun d'installeurs windows sous forme de states sur
       `salt-winrepo <https://github.com/saltstack/salt-winrepo>`_
 
-*Support de présentation à venir*.
+`Support de sa présentation <./presentations/aminet-salt-macosx-win.pdf>`_
 
 Création de statistiques  pour une infrastructure salt
 ------------------------------------------------------
