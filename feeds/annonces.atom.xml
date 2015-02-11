@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/annonces.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-10-24T00:00:00+02:00</updated><entry><title>Annonce : Logilab présente Saltstack le 3 novembre à la cantine Toulouse</title><link href="http://salt-fr.afpy.org/annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html" rel="alternate"></link><updated>2014-10-24T00:00:00+02:00</updated><author><name>Denis Laxalde</name></author><id>tag:salt-fr.afpy.org,2014-10-24:annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html</id><summary type="html">&lt;p&gt;Logilab vous invite le lundi 3 novembre à une présentation de Salt à la
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/annonces.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-02-11T00:00:00+01:00</updated><entry><title>Annonce : Meetup Salt Paris chez Dailymotion - Fevrier 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html" rel="alternate"></link><updated>2015-02-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-11:annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html</id><summary type="html">&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
+Malesherbes.&lt;/p&gt;
+&lt;img alt="Dailymotion" src="./images/dailymotion.png" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.logilab.fr/id/david.douard"&gt;David Douard&lt;/a&gt; de &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; présentera &amp;quot;Faire du Salt dans et avec des
+docker&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Il reste encore des places pour faire des présentations
+éclairs. Contactez nous sur la &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;liste&lt;/a&gt; pour nous faire une
+proposition de présentation.&lt;/p&gt;
+&lt;p&gt;Le meetup est gratuit mais il faut s'inscrire (limité à 50 places) sur
+&lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/220110646/"&gt;meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width="425" height="350" frameborder="0" scrolling="no"
+marginheight="0" marginwidth="0"
+src="http://www.openstreetmap.org/export/embed.html?bbox=2.29539155960083%2C48.877544286231874%2C2.323672771453857%2C48.89209172348569&amp;amp;layer=mapnik"
+style="border: 1px solid black"&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a
+href="http://www.openstreetmap.org/#map=16/48.8848/2.3095"&gt;View
+Larger Map&lt;/a&gt;&lt;/small&gt;</summary><category term="annonces"></category></entry><entry><title>Annonce : Logilab présente Saltstack le 3 novembre à la cantine Toulouse</title><link href="http://salt-fr.afpy.org/annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html" rel="alternate"></link><updated>2014-10-24T00:00:00+02:00</updated><author><name>Denis Laxalde</name></author><id>tag:salt-fr.afpy.org,2014-10-24:annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html</id><summary type="html">&lt;p&gt;Logilab vous invite le lundi 3 novembre à une présentation de Salt à la
 &lt;a class="reference external" href="http://lacantine-toulouse.org/"&gt;cantine de Toulouse&lt;/a&gt;. Cela se passera de 18
 à 20h, avec une présentation suivie d'un moment convivial autour d'un apéritif
 afin de continuer la discussion.&lt;/p&gt;
