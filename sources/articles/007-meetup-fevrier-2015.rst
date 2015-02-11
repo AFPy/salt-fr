@@ -33,9 +33,4 @@ Le meetup est gratuit mais il faut s'inscrire (limité à 50 places) sur
 
 .. raw:: html
 
-  <iframe width="425" height="350" frameborder="0" scrolling="no"
-  marginheight="0" marginwidth="0"
-  src="http://www.openstreetmap.org/export/embed.html?bbox=2.29539155960083%2C48.877544286231874%2C2.323672771453857%2C48.89209172348569&amp;layer=mapnik"
-  style="border: 1px solid black"></iframe><br/><small><a
-  href="http://www.openstreetmap.org/#map=16/48.8848/2.3095">View
-  Larger Map</a></small>
+  <iframe width="425" height="350" frameborder="0" scrolling="no"  marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=2.29539155960083%2C48.877544286231874%2C2.323672771453857%2C48.89209172348569&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=16/48.8848/2.3095">View  Larger Map</a></small>
