@@ -3,7 +3,7 @@ Compte rendu Salt Meetup Paris - février 2015
 
 
 :date: 2015-02-16
-:tags: cr, dailymotion, 
+:tags: cr, dailymotion,
 :category: Compte Rendus
 :author: David Douard
 :email: david.douard@logilab.fr
@@ -74,7 +74,7 @@ Des discussions se sont engagées suites à ces présentations, notament sur :
 
 - état et stabilité des modules dockerio_ récement arrivés dans salt,
 
-- état de la salt-api_ et utilisation des ACLs_  
+- état de la salt-api_ et utilisation des ACLs_
 
 .. _environnements: http://docs.saltstack.com/en/latest/ref/states/top.html#environments
 .. _dockerio: http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.dockerio.html#module-salt.modules.dockerio
@@ -91,15 +91,15 @@ Conclusion
 Merci à Dailymotion_ d'avoir acceuilli et apporté à boire, et fournie
 les pizzas.
 
-Pour le prochain meetup (mars/avril), votez pour une date sur
-`framadate <https://framadate.org/4cf63j6i23vbaeem>`_ et n'hésitez pas
+Pour le prochain meetup (avril), votez pour une date sur
+`framadate <https://framadate.org/8kempnqn8vw4cfod>`_ et n'hésitez pas
 à inscrire une proposition de présentation ou de lieu sur le `pad
 d'organisation
 <http://lite4.framapad.org/p/organisation-salt-meetups>`_.
 
 
 .. _Tinyclues: http://www.tinyclues.com/
-.. _Dailymotion:
+.. _Dailymotion: http://dailymotion.fr/
 .. _Logilab: http://www.logilab.fr
 .. _supervisord: http://supervisrd.org
 .. _Heuritech: http://www.heuritech.com/
