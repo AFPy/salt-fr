@@ -49,7 +49,9 @@ manière de sécouper ses *states* et *pillars* salt pour installer un
 salt-master chez un client, et a parlé des bonnes pratiques
 d'organisation du code salt.
 
-Le support de sa présentation est disponible ici_
+Le support de sa présentation seront bientôt disponibles.
+
+.. ici_
 
 .. _ici: http://
 
@@ -88,7 +90,7 @@ discussions plus avancées lors d'un prochain *meetup*.
 Conclusion
 ----------
 
-Merci à Dailymotion_ d'avoir acceuilli et apporté à boire, et fournie
+Merci à Dailymotion_ d'avoir acceuilli et apporté à boire, et fourni
 les pizzas.
 
 Pour le prochain meetup (avril), votez pour une date sur
