@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Salt-fr, Rencontres des utilisateurs francophones de Salt">
+
+        <link rel="alternate"  href="http://salt-fr.afpy.org/feeds/all.atom.xml" type="application/atom+xml" title="Salt-fr Full Atom Feed"/>
+
+        <title>Compte rendu Salt Meetup Paris - février 2015 // Salt-fr // Rencontres des utilisateurs francophones de Salt</title>
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/theme/css/pure.css">
+    <link rel="stylesheet" href="http://salt-fr.afpy.org/theme/css/pygments.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
+</head>
+
+<body>
+<div class="pure-g-r" id="layout">
+    <div class="sidebar sidebar-article pure-u">
+        <header class="header-article">
+            <hgroup>
+                <a href="http://salt-fr.afpy.org/author/david-douard.html" title="See posts by David Douard">
+                        <img class="avatar" alt="David Douard" src="http://www.gravatar.com/avatar/7725ebdd5a56252641ba727dfa3c8c2d">
+                </a>
+                <h2 class="article-info">David Douard</h2>
+                <small class="about-author"></small>
+                <h5>Published</h5>
+                <p>lun. 16 février 2015</p>
+                <a href="/">&larr;Home</a>
+            </hgroup>
+        </header>
+    </div>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Compte rendu Salt Meetup Paris - février 2015</h1>
+                        <p class="post-meta">
+                            // under                                 <a class="post-category" href="http://salt-fr.afpy.org/tag/cr.html">cr</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/dailymotion.html">dailymotion</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/.html"></a>
+                        </p>
+                </header>
+            </section>
+            <p>La communauté Salt française (ou plutôt francilienne) s'est réunie
+dans les locaux parisiens de <a class="reference external" href="http://dailymotion.fr/">Dailymotion</a> pour son premier <em>meetup</em> de
+l'année, autour de trois présentations. Voici un compte rendu (très
+court) pour vous renvoyer vers les références.</p>
+<div class="section" id="utiliser-salt-dans-des-docker">
+<h2>Utiliser salt dans des docker</h2>
+<p>David Douard de <a class="reference external" href="http://www.logilab.fr">Logilab</a> a fait une rapide présentation sur
+l'utilisation de salt dans un conteneur docker, par exemple pour
+tester des configurations salt.</p>
+<p>Cette présentation s'est déroulée en deux parties :</p>
+<ul class="simple">
+<li>un présentation rapide de docker</li>
+<li>une démonstration de l'utilisation de salt dans un docker, avec :<ul>
+<li>la configuration requise pour lancer un salt-master local pour
+piloter les minions lancés dans des conteneurs,</li>
+<li>la présentation d'un <tt class="docutils literal">Dockerfile</tt> qui produit une image docker
+minimal, basée sur une Debian jessie, avec un salt-minion installé
+et lancé par <a class="reference external" href="http://supervisrd.org">supervisord</a>,</li>
+<li>un exemple de test de configuration d'un apt-cacher à partir de la
+<a class="reference external" href="https://github.com/saltstack-formulas/apt-cacher-formula">formula</a> existante.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="decouper-ses-states-pillar-salt">
+<h2>Découper ses states/pillar salt</h2>
+<p>Paul Tonelli, de <a class="reference external" href="http://www.heuritech.com/">Heuritech</a>, nous a fait une présentation sur la bonne
+manière de sécouper ses <em>states</em> et <em>pillars</em> salt pour installer un
+salt-master chez un client, et a parlé des bonnes pratiques
+d'organisation du code salt.</p>
+<p>Le support de sa présentation seront bientôt disponibles.</p>
+<!-- ici_ -->
+</div>
+<div class="section" id="saltpad">
+<h2>SaltPad</h2>
+<img alt="saltpad" src="../images/saltpad_sshot.png" />
+<p>Boris Feld de <a class="reference external" href="http://www.tinyclues.com/">Tinyclues</a> nous a refait une présentation rapide de son
+projet <a class="reference external" href="https://github.com/tinyclues/saltpad">saltpad</a>, une interface web pour piloter salt, sous forme d'une
+démonstration de l'outil.</p>
+</div>
+<div class="section" id="discussions">
+<h2>Discussions</h2>
+<p>Des discussions se sont engagées suites à ces présentations, notament sur :</p>
+<ul class="simple">
+<li>qui utilise, et comment, les <a class="reference external" href="http://docs.saltstack.com/en/latest/ref/states/top.html#environments">environnements</a> dans une configuration salt,</li>
+<li>état et stabilité des modules <a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.dockerio.html#module-salt.modules.dockerio">dockerio</a> récement arrivés dans salt,</li>
+<li>état de la <a class="reference external" href="http://docs.saltstack.com/en/latest/topics/releases/saltapi/0.8.4.html">salt-api</a> et utilisation des <a class="reference external" href="http://docs.saltstack.com/en/latest/ref/clientacl.html">ACLs</a></li>
+</ul>
+<p>Ces discussions pourraient être le sujet de présentations et de
+discussions plus avancées lors d'un prochain <em>meetup</em>.</p>
+</div>
+<div class="section" id="conclusion">
+<h2>Conclusion</h2>
+<p>Merci à <a class="reference external" href="http://dailymotion.fr/">Dailymotion</a> d'avoir acceuilli et apporté à boire, et fournie
+les pizzas.</p>
+<p>Pour le prochain meetup (avril), votez pour une date sur
+<a class="reference external" href="https://framadate.org/8kempnqn8vw4cfod">framadate</a> et n'hésitez pas
+à inscrire une proposition de présentation ou de lieu sur le <a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups">pad
+d'organisation</a>.</p>
+</div>
+
+            <div class="hr"></div>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; Salt-fr &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+</div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/david-douard.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 16 Feb 2015 00:00:00 +0100</lastBuildDate><item><title>Compte rendu Salt Meetup Paris - février 2015</title><link>http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-fevrier-2015.html</link><description>&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
+dans les locaux parisiens de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; pour son premier &lt;em&gt;meetup&lt;/em&gt; de
+l'année, autour de trois présentations. Voici un compte rendu (très
+court) pour vous renvoyer vers les références.&lt;/p&gt;
+&lt;div class="section" id="utiliser-salt-dans-des-docker"&gt;
+&lt;h2&gt;Utiliser salt dans des docker&lt;/h2&gt;
+&lt;p&gt;David Douard de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une rapide présentation sur
+l'utilisation de salt dans un conteneur docker, par exemple pour
+tester des configurations salt.&lt;/p&gt;
+&lt;p&gt;Cette présentation s'est déroulée en deux parties :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;un présentation rapide de docker&lt;/li&gt;
+&lt;li&gt;une démonstration de l'utilisation de salt dans un docker, avec :&lt;ul&gt;
+&lt;li&gt;la configuration requise pour lancer un salt-master local pour
+piloter les minions lancés dans des conteneurs,&lt;/li&gt;
+&lt;li&gt;la présentation d'un &lt;tt class="docutils literal"&gt;Dockerfile&lt;/tt&gt; qui produit une image docker
+minimal, basée sur une Debian jessie, avec un salt-minion installé
+et lancé par &lt;a class="reference external" href="http://supervisrd.org"&gt;supervisord&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;un exemple de test de configuration d'un apt-cacher à partir de la
+&lt;a class="reference external" href="https://github.com/saltstack-formulas/apt-cacher-formula"&gt;formula&lt;/a&gt; existante.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="decouper-ses-states-pillar-salt"&gt;
+&lt;h2&gt;Découper ses states/pillar salt&lt;/h2&gt;
+&lt;p&gt;Paul Tonelli, de &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;, nous a fait une présentation sur la bonne
+manière de sécouper ses &lt;em&gt;states&lt;/em&gt; et &lt;em&gt;pillars&lt;/em&gt; salt pour installer un
+salt-master chez un client, et a parlé des bonnes pratiques
+d'organisation du code salt.&lt;/p&gt;
+&lt;p&gt;Le support de sa présentation seront bientôt disponibles.&lt;/p&gt;
+&lt;!-- ici_ --&gt;
+&lt;/div&gt;
+&lt;div class="section" id="saltpad"&gt;
+&lt;h2&gt;SaltPad&lt;/h2&gt;
+&lt;img alt="saltpad" src="../images/saltpad_sshot.png" /&gt;
+&lt;p&gt;Boris Feld de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;Tinyclues&lt;/a&gt; nous a refait une présentation rapide de son
+projet &lt;a class="reference external" href="https://github.com/tinyclues/saltpad"&gt;saltpad&lt;/a&gt;, une interface web pour piloter salt, sous forme d'une
+démonstration de l'outil.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="discussions"&gt;
+&lt;h2&gt;Discussions&lt;/h2&gt;
+&lt;p&gt;Des discussions se sont engagées suites à ces présentations, notament sur :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;qui utilise, et comment, les &lt;a class="reference external" href="http://docs.saltstack.com/en/latest/ref/states/top.html#environments"&gt;environnements&lt;/a&gt; dans une configuration salt,&lt;/li&gt;
+&lt;li&gt;état et stabilité des modules &lt;a class="reference external" href="http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.dockerio.html#module-salt.modules.dockerio"&gt;dockerio&lt;/a&gt; récement arrivés dans salt,&lt;/li&gt;
+&lt;li&gt;état de la &lt;a class="reference external" href="http://docs.saltstack.com/en/latest/topics/releases/saltapi/0.8.4.html"&gt;salt-api&lt;/a&gt; et utilisation des &lt;a class="reference external" href="http://docs.saltstack.com/en/latest/ref/clientacl.html"&gt;ACLs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ces discussions pourraient être le sujet de présentations et de
+discussions plus avancées lors d'un prochain &lt;em&gt;meetup&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conclusion"&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Merci à &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; d'avoir acceuilli et apporté à boire, et fournie
+les pizzas.&lt;/p&gt;
+&lt;p&gt;Pour le prochain meetup (avril), votez pour une date sur
+&lt;a class="reference external" href="https://framadate.org/8kempnqn8vw4cfod"&gt;framadate&lt;/a&gt; et n'hésitez pas
+à inscrire une proposition de présentation ou de lieu sur le &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;pad
+d'organisation&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Douard</dc:creator><pubDate>Mon, 16 Feb 2015 00:00:00 +0100</pubDate><guid>tag:salt-fr.afpy.org,2015-02-16:compte-rendu-salt-meetup-paris-fevrier-2015.html</guid><category>cr</category><category>dailymotion</category><category></category></item></channel></rss>
