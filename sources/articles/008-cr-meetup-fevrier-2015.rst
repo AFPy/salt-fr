@@ -14,6 +14,9 @@ dans les locaux parisiens de Dailymotion_ pour son premier *meetup* de
 l'année, autour de trois présentations. Voici un compte rendu (très
 court) pour vous renvoyer vers les références.
 
+.. image:: ../images/saltmeetup_dourdda.jpg
+  :alt: David Douard
+
 
 Utiliser salt dans des docker
 -----------------------------
@@ -21,6 +24,7 @@ Utiliser salt dans des docker
 David Douard de Logilab_ a fait une rapide présentation sur
 l'utilisation de salt dans un conteneur docker, par exemple pour
 tester des configurations salt.
+
 
 Cette présentation s'est déroulée en deux parties :
 
@@ -49,11 +53,9 @@ manière de sécouper ses *states* et *pillars* salt pour installer un
 salt-master chez un client, et a parlé des bonnes pratiques
 d'organisation du code salt.
 
-Le support de sa présentation seront bientôt disponibles.
+Le support de sa présentation sont disponibles ici_.
 
-.. ici_
-
-.. _ici: http://
+.. _ici: http://www.heuritech.com/slides/split.pdf
 
 
 SaltPad
