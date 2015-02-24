@@ -3,6 +3,7 @@
 dans les locaux parisiens de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; pour son premier &lt;em&gt;meetup&lt;/em&gt; de
 l'année, autour de trois présentations. Voici un compte rendu (très
 court) pour vous renvoyer vers les références.&lt;/p&gt;
+&lt;img alt="David Douard" src="../images/saltmeetup_dourdda.jpg" /&gt;
 &lt;div class="section" id="utiliser-salt-dans-des-docker"&gt;
 &lt;h2&gt;Utiliser salt dans des docker&lt;/h2&gt;
 &lt;p&gt;David Douard de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une rapide présentation sur
@@ -29,8 +30,7 @@ et lancé par &lt;a class="reference external" href="http://supervisrd.org"&gt;s
 manière de sécouper ses &lt;em&gt;states&lt;/em&gt; et &lt;em&gt;pillars&lt;/em&gt; salt pour installer un
 salt-master chez un client, et a parlé des bonnes pratiques
 d'organisation du code salt.&lt;/p&gt;
-&lt;p&gt;Le support de sa présentation seront bientôt disponibles.&lt;/p&gt;
-&lt;!-- ici_ --&gt;
+&lt;p&gt;Le support de sa présentation sont disponibles &lt;a class="reference external" href="http://www.heuritech.com/slides/split.pdf"&gt;ici&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="saltpad"&gt;
 &lt;h2&gt;SaltPad&lt;/h2&gt;

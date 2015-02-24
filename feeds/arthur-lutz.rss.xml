@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/arthur-lutz.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 11 Feb 2015 00:00:00 +0100</lastBuildDate><item><title>Annonce : Meetup Salt Paris chez Dailymotion - Fevrier 2015</title><link>http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html</link><description>&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/arthur-lutz.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0100</lastBuildDate><item><title>Sprint Salt en marge de la SaltConf</title><link>http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html</link><description>&lt;p&gt;Que diriez vous de venir faire un petit &lt;a class="reference external" href="https://fr.wikipedia.org/wiki/Sprint_%28d%C3%A9veloppement_logiciel%29"&gt;sprint&lt;/a&gt;
+en marge de la &lt;a class="reference external" href="http://saltconf.com/agenda/"&gt;SaltConf&lt;/a&gt; (qui a prévu
+un sprint le mercredi 4 mars 2015 en soirée) dans les locaux de
+Logilab ? Celui-ci aurait donc lieu le même jour, le mercredi 4 mars,
+de 9h à 18h.&lt;/p&gt;
+&lt;p&gt;L'idée est d'avoir une vrai session de travail où l'on finisse la
+journée avec des contributions à &lt;a class="reference external" href="https://github.com/salt/salt"&gt;salt&lt;/a&gt; (documentation, code, tests, etc).
+On pourra aussi en profiter pour discuter technique et échanger sur
+nos pratiques.&lt;/p&gt;
+&lt;p&gt;En 2013, &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; avait déjà fait un &lt;a class="reference external" href="http://www.logilab.org/blogentry/157960"&gt;sprint saltstack&lt;/a&gt;, qui malgré des problèmes
+d'électricité s'était plutôt bien passé.&lt;/p&gt;
+&lt;p&gt;Pour qu'on puisse savoir le nombre de participants en avance, merci de
+remplir &lt;a class="reference external" href="https://framadate.org/z7mvrnwcxmc7o3l4"&gt;le framadate&lt;/a&gt; (avec
+possibilité de participer sur IRC, mais bon, c'est pas idéal).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arthur Lutz</dc:creator><pubDate>Thu, 19 Feb 2015 00:00:00 +0100</pubDate><guid>tag:salt-fr.afpy.org,2015-02-19:sprint-salt-en-marge-de-la-saltconf.html</guid><category>annonce</category><category>sprint</category><category>saltconf</category></item><item><title>Annonce : Meetup Salt Paris chez Dailymotion - Fevrier 2015</title><link>http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html</link><description>&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
 Malesherbes.&lt;/p&gt;
 &lt;img alt="Dailymotion" src="./images/dailymotion.png" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.logilab.fr/id/david.douard"&gt;David Douard&lt;/a&gt; de &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; présentera &amp;quot;Faire du Salt dans et avec des

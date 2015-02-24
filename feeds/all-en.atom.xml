@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-02-16T00:00:00+01:00</updated><entry><title>Compte rendu Salt Meetup Paris - février 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-fevrier-2015.html" rel="alternate"></link><updated>2015-02-16T00:00:00+01:00</updated><author><name>David Douard</name></author><id>tag:salt-fr.afpy.org,2015-02-16:compte-rendu-salt-meetup-paris-fevrier-2015.html</id><summary type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-02-19T00:00:00+01:00</updated><entry><title>Sprint Salt en marge de la SaltConf</title><link href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html" rel="alternate"></link><updated>2015-02-19T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-19:sprint-salt-en-marge-de-la-saltconf.html</id><summary type="html">&lt;p&gt;Que diriez vous de venir faire un petit &lt;a class="reference external" href="https://fr.wikipedia.org/wiki/Sprint_%28d%C3%A9veloppement_logiciel%29"&gt;sprint&lt;/a&gt;
+en marge de la &lt;a class="reference external" href="http://saltconf.com/agenda/"&gt;SaltConf&lt;/a&gt; (qui a prévu
+un sprint le mercredi 4 mars 2015 en soirée) dans les locaux de
+Logilab ? Celui-ci aurait donc lieu le même jour, le mercredi 4 mars,
+de 9h à 18h.&lt;/p&gt;
+&lt;p&gt;L'idée est d'avoir une vrai session de travail où l'on finisse la
+journée avec des contributions à &lt;a class="reference external" href="https://github.com/salt/salt"&gt;salt&lt;/a&gt; (documentation, code, tests, etc).
+On pourra aussi en profiter pour discuter technique et échanger sur
+nos pratiques.&lt;/p&gt;
+&lt;p&gt;En 2013, &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; avait déjà fait un &lt;a class="reference external" href="http://www.logilab.org/blogentry/157960"&gt;sprint saltstack&lt;/a&gt;, qui malgré des problèmes
+d'électricité s'était plutôt bien passé.&lt;/p&gt;
+&lt;p&gt;Pour qu'on puisse savoir le nombre de participants en avance, merci de
+remplir &lt;a class="reference external" href="https://framadate.org/z7mvrnwcxmc7o3l4"&gt;le framadate&lt;/a&gt; (avec
+possibilité de participer sur IRC, mais bon, c'est pas idéal).&lt;/p&gt;
+</summary><category term="annonce"></category><category term="sprint"></category><category term="saltconf"></category></entry><entry><title>Compte rendu Salt Meetup Paris - février 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-fevrier-2015.html" rel="alternate"></link><updated>2015-02-16T00:00:00+01:00</updated><author><name>David Douard</name></author><id>tag:salt-fr.afpy.org,2015-02-16:compte-rendu-salt-meetup-paris-fevrier-2015.html</id><summary type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
 dans les locaux parisiens de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; pour son premier &lt;em&gt;meetup&lt;/em&gt; de
 l'année, autour de trois présentations. Voici un compte rendu (très
 court) pour vous renvoyer vers les références.&lt;/p&gt;
+&lt;img alt="David Douard" src="../images/saltmeetup_dourdda.jpg" /&gt;
 &lt;div class="section" id="utiliser-salt-dans-des-docker"&gt;
 &lt;h2&gt;Utiliser salt dans des docker&lt;/h2&gt;
 &lt;p&gt;David Douard de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une rapide présentation sur
@@ -29,8 +44,7 @@ et lancé par &lt;a class="reference external" href="http://supervisrd.org"&gt;s
 manière de sécouper ses &lt;em&gt;states&lt;/em&gt; et &lt;em&gt;pillars&lt;/em&gt; salt pour installer un
 salt-master chez un client, et a parlé des bonnes pratiques
 d'organisation du code salt.&lt;/p&gt;
-&lt;p&gt;Le support de sa présentation seront bientôt disponibles.&lt;/p&gt;
-&lt;!-- ici_ --&gt;
+&lt;p&gt;Le support de sa présentation sont disponibles &lt;a class="reference external" href="http://www.heuritech.com/slides/split.pdf"&gt;ici&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="saltpad"&gt;
 &lt;h2&gt;SaltPad&lt;/h2&gt;
