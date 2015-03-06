@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Salt-fr, Rencontres des utilisateurs francophones de Salt">
+
+        <link rel="alternate"  href="http://salt-fr.afpy.org/feeds/all.atom.xml" type="application/atom+xml" title="Salt-fr Full Atom Feed"/>
+
+        <title>Compte rendu du sprint chez Logilab // Salt-fr // Rencontres des utilisateurs francophones de Salt</title>
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/theme/css/pure.css">
+    <link rel="stylesheet" href="http://salt-fr.afpy.org/theme/css/pygments.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
+</head>
+
+<body>
+<div class="pure-g-r" id="layout">
+    <div class="sidebar sidebar-article pure-u">
+        <header class="header-article">
+            <hgroup>
+                <a href="http://salt-fr.afpy.org/author/arthur-lutz.html" title="See posts by Arthur Lutz">
+                        <img class="avatar" alt="Arthur Lutz" src="http://www.gravatar.com/avatar/37aa62b37005a57f8e2b261091d65a03">
+                </a>
+                <h2 class="article-info">Arthur Lutz</h2>
+                <small class="about-author"></small>
+                <h5>Published</h5>
+                <p>ven. 06 mars 2015</p>
+                <a href="/">&larr;Home</a>
+            </hgroup>
+        </header>
+    </div>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Compte rendu du sprint chez Logilab</h1>
+                        <p class="post-meta">
+                            // under                                 <a class="post-category" href="http://salt-fr.afpy.org/tag/sprint.html">sprint</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/saltconf.html">saltconf</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/logilab.html">logilab</a>
+                        </p>
+                </header>
+            </section>
+            <p>Juste un petit post pour dire que <a class="reference external" href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html">le sprint sur Salt</a> a
+rassemblé 7 personnes dans les locaux de <a class="reference external" href="http://www.logilab.fr">Logilab</a> et que nous en avons bien profité et réussi
+à produire quelques contributions à salt (patches de codes, réflexions
+sous forme de tickets, etc).</p>
+<img alt="Participants au sprint Salt 2015" class="align-center" src="http://www.logilab.org/file/288010/raw/IMG_3034.JPG" />
+<p>Merci à tous les participants d'être venus contribuer et échanger.</p>
+<p>Le compte rendu détaillé en anglais est publié sur un blog de Logilab : <a class="reference external" href="http://www.logilab.org/288007">A
+report on the Salt Sprint 2015 in Paris</a></p>
+
+            <div class="hr"></div>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; Salt-fr &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+</div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>

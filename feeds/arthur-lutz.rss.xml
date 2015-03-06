@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/arthur-lutz.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0100</lastBuildDate><item><title>Sprint Salt en marge de la SaltConf</title><link>http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html</link><description>&lt;p&gt;Que diriez vous de venir faire un petit &lt;a class="reference external" href="https://fr.wikipedia.org/wiki/Sprint_%28d%C3%A9veloppement_logiciel%29"&gt;sprint&lt;/a&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/arthur-lutz.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 06 Mar 2015 00:00:00 +0100</lastBuildDate><item><title>Compte rendu du sprint chez Logilab</title><link>http://salt-fr.afpy.org/compte-rendu-du-sprint-chez-logilab.html</link><description>&lt;p&gt;Juste un petit post pour dire que &lt;a class="reference external" href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html"&gt;le sprint sur Salt&lt;/a&gt; a
+rassemblé 7 personnes dans les locaux de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; et que nous en avons bien profité et réussi
+à produire quelques contributions à salt (patches de codes, réflexions
+sous forme de tickets, etc).&lt;/p&gt;
+&lt;img alt="Participants au sprint Salt 2015" class="align-center" src="http://www.logilab.org/file/288010/raw/IMG_3034.JPG" /&gt;
+&lt;p&gt;Merci à tous les participants d'être venus contribuer et échanger.&lt;/p&gt;
+&lt;p&gt;Le compte rendu détaillé en anglais est publié sur un blog de Logilab : &lt;a class="reference external" href="http://www.logilab.org/288007"&gt;A
+report on the Salt Sprint 2015 in Paris&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arthur Lutz</dc:creator><pubDate>Fri, 06 Mar 2015 00:00:00 +0100</pubDate><guid>tag:salt-fr.afpy.org,2015-03-06:compte-rendu-du-sprint-chez-logilab.html</guid><category>sprint</category><category>saltconf</category><category>logilab</category></item><item><title>Sprint Salt en marge de la SaltConf</title><link>http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html</link><description>&lt;p&gt;Que diriez vous de venir faire un petit &lt;a class="reference external" href="https://fr.wikipedia.org/wiki/Sprint_%28d%C3%A9veloppement_logiciel%29"&gt;sprint&lt;/a&gt;
 en marge de la &lt;a class="reference external" href="http://saltconf.com/agenda/"&gt;SaltConf&lt;/a&gt; (qui a prévu
 un sprint le mercredi 4 mars 2015 en soirée) dans les locaux de
 Logilab ? Celui-ci aurait donc lieu le même jour, le mercredi 4 mars,
