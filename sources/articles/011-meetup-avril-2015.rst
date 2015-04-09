@@ -11,7 +11,8 @@ Annonce : Meetup Salt Paris chez tinyclues - avril 2015
 
 Le meetup d'avril aura lieu dans les locaux de `tinyclues
 <http://www.tinyclues.com/>`_ au `1 rue du mail 75002, Paris
-<http://osm.org/go/0BOd3U_a?layers=T&m=&node=689346070>`_, métro Bourse.
+<http://osm.org/go/0BOd3U_a?layers=T&m=&node=689346070>`_, métro
+Bourse. Jeudi 16 avril à 19h.
 
 
 .. image:: ./images/tinyclues.png
