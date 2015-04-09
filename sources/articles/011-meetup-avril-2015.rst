@@ -1,5 +1,5 @@
-Annonce : Meetup Salt Paris chez tiny cluse - avril 2015
-========================================================
+Annonce : Meetup Salt Paris chez tinyclues - avril 2015
+=======================================================
 
 
 :date: 2015-04-09
