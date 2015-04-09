@@ -14,7 +14,7 @@ dans les locaux parisiens de Dailymotion_ pour son premier *meetup* de
 l'année, autour de trois présentations. Voici un compte rendu (très
 court) pour vous renvoyer vers les références.
 
-.. image:: ../images/saltmeetup_dourdda.jpg
+.. image:: ../images/saltmeetup_douardda.jpg
   :alt: David Douard
 
 

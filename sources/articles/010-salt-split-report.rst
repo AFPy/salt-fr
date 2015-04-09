@@ -15,7 +15,7 @@ rassemblé 7 personnes dans les locaux de `Logilab
 à produire quelques contributions à salt (patches de codes, réflexions
 sous forme de tickets, etc).
 
-.. image:: http://www.logilab.org/file/288010/raw/IMG_3034.JPG
+.. image:: ../images/IMG_3034.JPG
   :align: center
   :alt: Participants au sprint Salt 2015
 
