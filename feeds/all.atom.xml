@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-04-09T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt Paris chez tinyclues - avril 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html" rel="alternate"></link><updated>2015-04-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-04-09:annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html</id><summary type="html">&lt;p&gt;Le meetup d'avril aura lieu dans les locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BOd3U_a?layers=T&amp;amp;m=&amp;amp;node=689346070"&gt;1 rue du mail 75002, Paris&lt;/a&gt;, métro
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-04-16T00:00:00+02:00</updated><entry><title>Compte rendu Salt Meetup Paris - avril 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-avril-2015.html" rel="alternate"></link><updated>2015-04-16T00:00:00+02:00</updated><author><name>Aurélien Minet</name></author><id>tag:salt-fr.afpy.org,2015-04-16:compte-rendu-salt-meetup-paris-avril-2015.html</id><summary type="html">&lt;p&gt;Une petite trentaine de membre de communauté Salt parisienne a été
+accueilli dans les nouveaux locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;Tinyclues&lt;/a&gt; pour ce meetup. Merci
+également à &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; qui a sponsorisé la nourriture.&lt;/p&gt;
+&lt;p&gt;Nicolas Chauvat PDG de Logilab a &lt;a class="reference external" href="http://www.logilab.fr/blogentry/2306"&gt;annoncé son partenariat avec
+SaltStack pour assurer la formation, le support et la certification
+sur Salt en France et en Europe&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Voici un compte rendu rapide des trois présentations de cette soirée.&lt;/p&gt;
+&lt;div class="section" id="interface-web-saltstack-enterprise"&gt;
+&lt;h2&gt;Interface Web SaltStack Enterprise&lt;/h2&gt;
+&lt;p&gt;Rob Hilberding de &lt;a class="reference external" href="http://www.saltstack.com/"&gt;SaltStack Inc.&lt;/a&gt; qui
+était à Paris pour plusieurs jours est venu présenter une &amp;quot;pure
+preview&amp;quot; ce que sera potentiellement l'interface web de la version
+Enterprise de Saltstack.&lt;/p&gt;
+&lt;img alt="Rob de SaltStack" class="align-center" src="./images/salt-2015-avril-2.jpg" /&gt;
+&lt;p&gt;Il a présenté l'interface qu'ils développent, cette dernière s'appuie sur
+l'API SaltStack et MariaDB ou MySQL. À noter que cette interface n'est
+qu'une extention, à savoir que la version Salstack Enterprise (master
+et minion) est basée sur le même code que la version communautaire.&lt;/p&gt;
+&lt;p&gt;L'interface supporte le multi-master, elle liste les minions et pour
+chaque minion : elle permet d'avoir l'ensemble de ces grains, le
+statut de ça connexion, des informations sur les dernier jobs.&lt;/p&gt;
+&lt;p&gt;La liste des minions pouvant être longue il y a la possibilité de
+filtre soit par une correspondance sur une partie de l'ID des minions
+soit sur la valeur d'un ou plusieurs grains.  Un filtre peut permettre
+la création de groupe de minions, c'est également possible via un
+wizard dédié. Les groupes créés peuvent être partagé (publics) ou
+privés.  Pour les minions sélectionnés il est possible dans lancer un
+job (depuis une liste).  Ainsi cette interface permet à des utilisateurs
+ne connaissant pas de manière poussé Salt de lancer des actions
+(job) sur des machines (minions) pour lesquelles ils ont les droits.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="comparaison-avec-ansible"&gt;
+&lt;h2&gt;Comparaison avec Ansible&lt;/h2&gt;
+&lt;p&gt;Paul Tonelli de &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt; a présenté les
+différences entre Ansible et SaltStack qu'il a pu appréhender après une
+semaine d'utilisation d'Ansible.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ansible utilise SSH pour les communication et donc c'est le serveur
+qui ce connecte aux clients ce qui peut impliquer de paramétrer ssh
+avec des proxy, le cas typique est l'accès au serveurs qui sont
+derrière un HAProxy en mode transparent.&lt;/li&gt;
+&lt;li&gt;Ansible n'a pas de serveur (daemon) qui tourne en continu comme
+SaltStack, mis à part Tower qui est payant.&lt;/li&gt;
+&lt;li&gt;Tower est une interface Web, qui au delà du fait d'être une GUI,
+peut offrir des fonctionnalités proches du reactor de Salt&lt;/li&gt;
+&lt;li&gt;L'approche d'Ansible est d'avoir un &lt;em&gt;playbook&lt;/em&gt; par projet alors que
+Salt a une arborescence pour l'ensemble.&lt;/li&gt;
+&lt;li&gt;Ansible peut cibler un peu comme Salt mais sur des nom de machines
+et faire des groupes de machines en les déclarant dans un fichier,
+les wilcards peuvent être utilisés.&lt;/li&gt;
+&lt;li&gt;La gestion des dépendances est simple, il faut que cela soit déclaré
+avant/au dessus.  La conclusion est que Ansible a une approche plus
+minimaliste et la configuration est plus statique.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="retour-d-experience"&gt;
+&lt;h2&gt;Retour d'experience&lt;/h2&gt;
+&lt;p&gt;Joe de &lt;a class="reference external" href="http://www.ddn.com/"&gt;DDN&lt;/a&gt; à présenté l'utilisation de Salt
+dans le cadre du déploiement et maintient des produits de DDN de
+stockage type big data et S3.  Les clients de DDN déploient quelques
+RPM et produisent une configuration qui va pousser sur l'ensemble des
+nœuds (via SSH) les masters et les minions pour déployer toute la
+stack (Zookeeper, HBase, Hadoop, memcache, etc) puis pour la
+surveiller et l'orchestrer. À noter que l’environnement déployé est
+multi-master, au plus 2 ou 3 master afin de minimiser certaines
+latences. DDN a développé un ensemble d'outils (*ctl) qui forment une
+couche d'abstraction à Salt, afin de gérer le stockage offert par les
+solutions de stockage. Salt est masqué pour le client qui n'a pas
+besoin de le maîtriser.  Salt a été choisi pour sa rapidité, la
+parallélisation, la consistance dans ce qui est déployé, le
+multi-master (actif-actif).&lt;/p&gt;
+&lt;p&gt;Nous avons poursuivi les discussions autour de petits bagels &lt;a class="reference external" href="http://www.logilab.fr"&gt;offerts
+par Logilab&lt;/a&gt;.&lt;/p&gt;
+&lt;img alt="bagels et companie" class="align-center" src="./images/salt-2015-avril.jpg" /&gt;
+&lt;/div&gt;
+</summary><category term="cr"></category><category term="tinyclues"></category><category term="logilab"></category><category term="enterprise"></category><category term="ui"></category><category term="ansible"></category><category term="REx"></category></entry><entry><title>Annonce : Meetup Salt Paris chez tinyclues - avril 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html" rel="alternate"></link><updated>2015-04-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-04-09:annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html</id><summary type="html">&lt;p&gt;Le meetup d'avril aura lieu dans les locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BOd3U_a?layers=T&amp;amp;m=&amp;amp;node=689346070"&gt;1 rue du mail 75002, Paris&lt;/a&gt;, métro
 Bourse. Jeudi 16 avril à 19h.&lt;/p&gt;
 &lt;img alt="tinyclues" src="./images/tinyclues.png" /&gt;
 &lt;p&gt;Programme :&lt;/p&gt;

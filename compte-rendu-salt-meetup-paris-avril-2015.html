@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Salt-fr, Rencontres des utilisateurs francophones de Salt">
+
+        <link rel="alternate"  href="http://salt-fr.afpy.org/feeds/all.atom.xml" type="application/atom+xml" title="Salt-fr Full Atom Feed"/>
+
+        <title>Compte rendu Salt Meetup Paris - avril 2015 // Salt-fr // Rencontres des utilisateurs francophones de Salt</title>
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/theme/css/pure.css">
+    <link rel="stylesheet" href="http://salt-fr.afpy.org/theme/css/pygments.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
+</head>
+
+<body>
+<div class="pure-g-r" id="layout">
+    <div class="sidebar sidebar-article pure-u">
+        <header class="header-article">
+            <hgroup>
+                <a href="http://salt-fr.afpy.org/author/aurelien-minet.html" title="See posts by Aurélien Minet">
+                        <img class="avatar" alt="Aurélien Minet" src="http://www.gravatar.com/avatar/1d614b64b03c2a30b0829469cf9e103d">
+                </a>
+                <h2 class="article-info">Aurélien Minet</h2>
+                <small class="about-author"></small>
+                <h5>Published</h5>
+                <p>jeu. 16 avril 2015</p>
+                <a href="/">&larr;Home</a>
+            </hgroup>
+        </header>
+    </div>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Compte rendu Salt Meetup Paris - avril 2015</h1>
+                        <p class="post-meta">
+                            // under                                 <a class="post-category" href="http://salt-fr.afpy.org/tag/cr.html">cr</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/tinyclues.html">tinyclues</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/logilab.html">logilab</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/enterprise.html">enterprise</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/ui.html">ui</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/ansible.html">ansible</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/rex.html">REx</a>
+                        </p>
+                </header>
+            </section>
+            <p>Une petite trentaine de membre de communauté Salt parisienne a été
+accueilli dans les nouveaux locaux de <a class="reference external" href="http://www.tinyclues.com/">Tinyclues</a> pour ce meetup. Merci
+également à <a class="reference external" href="http://www.logilab.fr/">Logilab</a> qui a sponsorisé la nourriture.</p>
+<p>Nicolas Chauvat PDG de Logilab a <a class="reference external" href="http://www.logilab.fr/blogentry/2306">annoncé son partenariat avec
+SaltStack pour assurer la formation, le support et la certification
+sur Salt en France et en Europe</a>.</p>
+<p>Voici un compte rendu rapide des trois présentations de cette soirée.</p>
+<div class="section" id="interface-web-saltstack-enterprise">
+<h2>Interface Web SaltStack Enterprise</h2>
+<p>Rob Hilberding de <a class="reference external" href="http://www.saltstack.com/">SaltStack Inc.</a> qui
+était à Paris pour plusieurs jours est venu présenter une &quot;pure
+preview&quot; ce que sera potentiellement l'interface web de la version
+Enterprise de Saltstack.</p>
+<img alt="Rob de SaltStack" class="align-center" src="./images/salt-2015-avril-2.jpg" />
+<p>Il a présenté l'interface qu'ils développent, cette dernière s'appuie sur
+l'API SaltStack et MariaDB ou MySQL. À noter que cette interface n'est
+qu'une extention, à savoir que la version Salstack Enterprise (master
+et minion) est basée sur le même code que la version communautaire.</p>
+<p>L'interface supporte le multi-master, elle liste les minions et pour
+chaque minion : elle permet d'avoir l'ensemble de ces grains, le
+statut de ça connexion, des informations sur les dernier jobs.</p>
+<p>La liste des minions pouvant être longue il y a la possibilité de
+filtre soit par une correspondance sur une partie de l'ID des minions
+soit sur la valeur d'un ou plusieurs grains.  Un filtre peut permettre
+la création de groupe de minions, c'est également possible via un
+wizard dédié. Les groupes créés peuvent être partagé (publics) ou
+privés.  Pour les minions sélectionnés il est possible dans lancer un
+job (depuis une liste).  Ainsi cette interface permet à des utilisateurs
+ne connaissant pas de manière poussé Salt de lancer des actions
+(job) sur des machines (minions) pour lesquelles ils ont les droits.</p>
+</div>
+<div class="section" id="comparaison-avec-ansible">
+<h2>Comparaison avec Ansible</h2>
+<p>Paul Tonelli de <a class="reference external" href="http://www.heuritech.com/">Heuritech</a> a présenté les
+différences entre Ansible et SaltStack qu'il a pu appréhender après une
+semaine d'utilisation d'Ansible.</p>
+<ul class="simple">
+<li>Ansible utilise SSH pour les communication et donc c'est le serveur
+qui ce connecte aux clients ce qui peut impliquer de paramétrer ssh
+avec des proxy, le cas typique est l'accès au serveurs qui sont
+derrière un HAProxy en mode transparent.</li>
+<li>Ansible n'a pas de serveur (daemon) qui tourne en continu comme
+SaltStack, mis à part Tower qui est payant.</li>
+<li>Tower est une interface Web, qui au delà du fait d'être une GUI,
+peut offrir des fonctionnalités proches du reactor de Salt</li>
+<li>L'approche d'Ansible est d'avoir un <em>playbook</em> par projet alors que
+Salt a une arborescence pour l'ensemble.</li>
+<li>Ansible peut cibler un peu comme Salt mais sur des nom de machines
+et faire des groupes de machines en les déclarant dans un fichier,
+les wilcards peuvent être utilisés.</li>
+<li>La gestion des dépendances est simple, il faut que cela soit déclaré
+avant/au dessus.  La conclusion est que Ansible a une approche plus
+minimaliste et la configuration est plus statique.</li>
+</ul>
+</div>
+<div class="section" id="retour-d-experience">
+<h2>Retour d'experience</h2>
+<p>Joe de <a class="reference external" href="http://www.ddn.com/">DDN</a> à présenté l'utilisation de Salt
+dans le cadre du déploiement et maintient des produits de DDN de
+stockage type big data et S3.  Les clients de DDN déploient quelques
+RPM et produisent une configuration qui va pousser sur l'ensemble des
+nœuds (via SSH) les masters et les minions pour déployer toute la
+stack (Zookeeper, HBase, Hadoop, memcache, etc) puis pour la
+surveiller et l'orchestrer. À noter que l’environnement déployé est
+multi-master, au plus 2 ou 3 master afin de minimiser certaines
+latences. DDN a développé un ensemble d'outils (*ctl) qui forment une
+couche d'abstraction à Salt, afin de gérer le stockage offert par les
+solutions de stockage. Salt est masqué pour le client qui n'a pas
+besoin de le maîtriser.  Salt a été choisi pour sa rapidité, la
+parallélisation, la consistance dans ce qui est déployé, le
+multi-master (actif-actif).</p>
+<p>Nous avons poursuivi les discussions autour de petits bagels <a class="reference external" href="http://www.logilab.fr">offerts
+par Logilab</a>.</p>
+<img alt="bagels et companie" class="align-center" src="./images/salt-2015-avril.jpg" />
+</div>
+
+            <div class="hr"></div>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; Salt-fr &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+</div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>
