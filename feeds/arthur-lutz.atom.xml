@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/arthur-lutz.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-04-09T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt Paris chez tinyclues - avril 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html" rel="alternate"></link><updated>2015-04-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-04-09:annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html</id><summary type="html">&lt;p&gt;Le meetup d'avril aura lieu dans les locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BOd3U_a?layers=T&amp;amp;m=&amp;amp;node=689346070"&gt;1 rue du mail 75002, Paris&lt;/a&gt;, métro
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/arthur-lutz.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-06-05T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-06-05T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-06-05:annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
+pour défendres les &amp;quot;autres&amp;quot; frameworks. Et oui, la communauté nous
+demande souvent comment &lt;a class="reference external" href="http://saltstack.org"&gt;Salt&lt;/a&gt; se compare à
+des frameworks comme &lt;a class="reference external" href="http://puppetlabs.com/"&gt;Puppet&lt;/a&gt;, &lt;a class="reference external" href="http://chef.io"&gt;Chef&lt;/a&gt; ou &lt;a class="reference external" href="http://ansible.com"&gt;Ansible&lt;/a&gt;. Avantages,
+inconvénients, tailles des ecosystèmes, architecture, nous essayerons
+d'aborder tous les points qui permettent à chaqun de choisir
+l'application qui convient à son infrastructure et ses processus.&lt;/p&gt;
+&lt;p&gt;Le meetup aura lieu à l'&lt;a class="reference external" href="http://www.42.fr/"&gt;école 42&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIZrjhB-?node=2580430880"&gt;96
+Boulevard Bessières, Paris&lt;/a&gt;, métro Porte de
+Clichy.&lt;/p&gt;
+&lt;img alt="École 42" src="./images/logo-42.jpg" /&gt;
+&lt;p&gt;Voici la liste des intervenants :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Mathieu Lecarme (&lt;a class="reference external" href="http://bearstech.com/"&gt;Bearstech&lt;/a&gt;) &lt;a class="reference external" href="https://twitter.com/athoune"&gt;&amp;#64;athoune&lt;/a&gt; défendra Ansible.&lt;/li&gt;
+&lt;li&gt;Guilhem Lettron (&lt;a class="reference external" href="http://wemanity.com/"&gt;Wemanity&lt;/a&gt;)
+&lt;a class="reference external" href="https://twitter.com/guilhemlettron"&gt;&amp;#64;guilhemlettron&lt;/a&gt; défendra
+Chef&lt;/li&gt;
+&lt;li&gt;François GOUTEROUX (&lt;a class="reference external" href="http://d2-si.eu"&gt;D2SI&lt;/a&gt;) &lt;a class="reference external" href="https://twitter.com/fgouteroux"&gt;&amp;#64;fgouteroux&lt;/a&gt; défendra Puppet&lt;/li&gt;
+&lt;li&gt;Arthur Lutz (&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;) &lt;a class="reference external" href="https://twitter.com/arthurlutz"&gt;&amp;#64;arthurlutz&lt;/a&gt; défendra Salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img alt="Intervenants pour défendre chaque framework" src="./images/compare_frameworks.png" /&gt;
+&lt;p&gt;Nous avons prévu un certain nombre de sujets et questions à poser aux
+intervenants, si vous avez des questions brûlantes, faites nous en
+part sur la &lt;a class="reference external" href="http://lists.afpy.fr/listinfo/salt-fr"&gt;liste&lt;/a&gt;, sur &lt;a class="reference external" href="irc://irc.freenode.net/#salt-fr"&gt;IRC
+(#salt-fr sur freenode)&lt;/a&gt; ou sur
+twitter.&lt;/p&gt;
+&lt;p&gt;Le meetup est gratuit mais il faut s'inscrire (limité à 100 places)
+sur &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/220110646/"&gt;meetup.com&lt;/a&gt;. Inscrivez
+vous avant qu'il n'y ait plus de places pour ce meetup un peu
+exceptionnel !&lt;/p&gt;
+&lt;p&gt;Comme d'habitude, nous aurons de quoi manger et boire pour continuer
+les discussion après le débat.&lt;/p&gt;
+</summary><category term="annonces"></category><category term="puppet"></category><category term="chef"></category><category term="ansible"></category><category term="salt"></category></entry><entry><title>Annonce : Meetup Salt Paris chez tinyclues - avril 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html" rel="alternate"></link><updated>2015-04-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-04-09:annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html</id><summary type="html">&lt;p&gt;Le meetup d'avril aura lieu dans les locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BOd3U_a?layers=T&amp;amp;m=&amp;amp;node=689346070"&gt;1 rue du mail 75002, Paris&lt;/a&gt;, métro
 Bourse. Jeudi 16 avril à 19h.&lt;/p&gt;
 &lt;img alt="tinyclues" src="./images/tinyclues.png" /&gt;
 &lt;p&gt;Programme :&lt;/p&gt;
