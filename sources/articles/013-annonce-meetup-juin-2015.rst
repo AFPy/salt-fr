@@ -16,8 +16,8 @@ inconvénients, tailles des ecosystèmes, architecture, nous essayerons
 d'aborder tous les points qui permettent à chaqun de choisir
 l'application qui convient à son infrastructure et ses processus.
 
-Le meetup aura lieu à l'`école 42 <http://www.42.fr/>`_ au `96
-Boulevard Bessières, Paris
+Le meetup aura lieu le **jeudi 18 juin 2015** à 19h à l'`école 42
+<http://www.42.fr/>`_ au `96 Boulevard Bessières, Paris
 <http://osm.org/go/0BPIZrjhB-?node=2580430880>`_, métro Porte de
 Clichy.
 
