@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-06-05T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-06-05T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-06-05:annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-07-17T00:00:00+02:00</updated><entry><title>Compte rendu "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/compte-rendu-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-07-17T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-07-17:compte-rendu-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Comme &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html"&gt;annoncé sur ce blog&lt;/a&gt;,
+le meetup de juin était un peu particulier. Nous avons rassemblé
+plusieurs frameworks pour discuter comparativement des technologies
+similaires à Salt. Nous sommes resortis avec une idée plus précise des
+forces et faiblesses de chacun, mais aussi des idée pour améliorer
+Salt.&lt;/p&gt;
+&lt;p&gt;Voici les &lt;a class="reference external" href="http://slides.com/arthurlogilab/meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-p-uppet#/"&gt;diapositives&lt;/a&gt;
+pour introduire la soirée.&lt;/p&gt;
+&lt;iframe
+src="//slides.com/arthurlogilab/meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-p-uppet/embed"
+width="576" height="420" scrolling="no" frameborder="0"
+webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;p&gt;Merci à Mathieu de &lt;a class="reference external" href="http://bearstech.com/"&gt;Bearstech&lt;/a&gt;, Guilhem de
+&lt;a class="reference external" href="http://wemanity.com/"&gt;Wemanity&lt;/a&gt;, Francois de &lt;a class="reference external" href="http://d2-si.eu"&gt;D2SI&lt;/a&gt; et Arthur de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;
+pour leurs interventions.&lt;/p&gt;
+&lt;img alt="Puppet Salt Ansible Chef Logilab Bearstech Wemanity D2SI" src="./images/compare_frameworks_salt_companies.png" /&gt;
+&lt;p&gt;Nous avons abordés 8 grandes thématiques :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction intervenants et leurs boites&lt;/li&gt;
+&lt;li&gt;Introduction générale par projet, historique, key features,
+languages de programmation, DSLs, installation multiplateforme
+(linux, unix, windows, mac, etc. ?)&lt;/li&gt;
+&lt;li&gt;Déploiement de configuration et templating&lt;/li&gt;
+&lt;li&gt;Executions de commandes,  organisation des noeuds, machines, ciblage&lt;/li&gt;
+&lt;li&gt;Architecture (réseau, parefeux, bus de communication, protocoles)&lt;/li&gt;
+&lt;li&gt;Extensibilité, plugins, écriture et déploiement&lt;/li&gt;
+&lt;li&gt;Orchestration, gestion de resources elastiques (cloud)&lt;/li&gt;
+&lt;li&gt;Délegation, collaboration, environnemnts (dev,preprod, prod),
+approche Devops&lt;/li&gt;
+&lt;li&gt;Composants &amp;quot;sur étagère&amp;quot;, taille de la communauté, utilisateurs notables&lt;/li&gt;
+&lt;li&gt;Offres &amp;quot;entreprise&amp;quot; autour ou écosystème commercial, Logique
+open-source / open-core, formations, livres&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img alt="Meetup Salt juin 2015" src="./images/salt-juin-2015.jpg" style="width: 600px;" /&gt;
+&lt;p&gt;Le meetup était visionnable en direct par streaming sur Dailymotion et
+un montage de l'enregistrement a été publié par École42 :&lt;/p&gt;
+&lt;iframe frameborder="0" width="560" height="315"
+src="//www.dailymotion.com/embed/video/x2xk20e"
+allowfullscreen&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a
+href="http://www.dailymotion.com/video/x2xk20e_conf-42-meetup-salt_tech"
+target="_blank"&gt;CONF@42 - MeetUp Salt&lt;/a&gt; &lt;i&gt;par &lt;a
+href="http://www.dailymotion.com/42Born2Code"
+target="_blank"&gt;42Born2Code&lt;/a&gt;&lt;/i&gt;&lt;p&gt;Nous avons fini la soirée autour de pizzas et boissons offertes par
+&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lors de l'organisation (&lt;a class="reference external" href="https://lite5.framapad.org/p/organisation-comparaison-frameworks"&gt;sur le pad notamment&lt;/a&gt;)
+, plusieurs personnes ont montré un interret pour ce type de débat,
+notamment dans d'autres villes que Paris (Lyon, Rennes, Nantes),
+n'hésitez pas à nous en parler sur &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;la liste de discussion&lt;/a&gt; pour qu'on ré-itère
+l'experience.&lt;/p&gt;
+</summary><category term="compte rendu"></category><category term="puppet"></category><category term="chef"></category><category term="ansible"></category><category term="salt"></category></entry><entry><title>Annonce : Meetup Salt "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-06-05T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-06-05:annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
 pour défendres les &amp;quot;autres&amp;quot; frameworks. Et oui, la communauté nous
 demande souvent comment &lt;a class="reference external" href="http://saltstack.org"&gt;Salt&lt;/a&gt; se compare à
 des frameworks comme &lt;a class="reference external" href="http://puppetlabs.com/"&gt;Puppet&lt;/a&gt;, &lt;a class="reference external" href="http://chef.io"&gt;Chef&lt;/a&gt; ou &lt;a class="reference external" href="http://ansible.com"&gt;Ansible&lt;/a&gt;. Avantages,
@@ -198,7 +246,7 @@ les pizzas.&lt;/p&gt;
 à inscrire une proposition de présentation ou de lieu sur le &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;pad
 d'organisation&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="cr"></category><category term="dailymotion"></category><category term=""></category></entry><entry><title>Annonce : Meetup Salt Paris chez Dailymotion - Fevrier 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html" rel="alternate"></link><updated>2015-02-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-11:annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html</id><summary type="html">&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
+</summary><category term="cr"></category><category term="dailymotion"></category></entry><entry><title>Annonce : Meetup Salt Paris chez Dailymotion - Fevrier 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html" rel="alternate"></link><updated>2015-02-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-11:annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html</id><summary type="html">&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
 Malesherbes.&lt;/p&gt;
 &lt;img alt="Dailymotion" src="./images/dailymotion.png" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.logilab.fr/id/david.douard"&gt;David Douard&lt;/a&gt; de &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; présentera &amp;quot;Faire du Salt dans et avec des
@@ -271,7 +319,7 @@ les pizzas.&lt;/p&gt;
 à inscrire une proposition de présentation ou de lieu sur le &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;pad
 d'organisation&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="cr"></category><category term="tinyclues"></category><category term="stats"></category><category term="ui"></category><category term=""></category></entry><entry><title>Annonce : Logilab présente Saltstack le 3 novembre à la cantine Toulouse</title><link href="http://salt-fr.afpy.org/annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html" rel="alternate"></link><updated>2014-10-24T00:00:00+02:00</updated><author><name>Denis Laxalde</name></author><id>tag:salt-fr.afpy.org,2014-10-24:annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html</id><summary type="html">&lt;p&gt;Logilab vous invite le lundi 3 novembre à une présentation de Salt à la
+</summary><category term="cr"></category><category term="tinyclues"></category><category term="stats"></category><category term="ui"></category></entry><entry><title>Annonce : Logilab présente Saltstack le 3 novembre à la cantine Toulouse</title><link href="http://salt-fr.afpy.org/annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html" rel="alternate"></link><updated>2014-10-24T00:00:00+02:00</updated><author><name>Denis Laxalde</name></author><id>tag:salt-fr.afpy.org,2014-10-24:annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html</id><summary type="html">&lt;p&gt;Logilab vous invite le lundi 3 novembre à une présentation de Salt à la
 &lt;a class="reference external" href="http://lacantine-toulouse.org/"&gt;cantine de Toulouse&lt;/a&gt;. Cela se passera de 18
 à 20h, avec une présentation suivie d'un moment convivial autour d'un apéritif
 afin de continuer la discussion.&lt;/p&gt;
