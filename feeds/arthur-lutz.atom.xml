@@ -4,9 +4,9 @@ le meetup de juin était un peu particulier. Nous avons rassemblé
 plusieurs frameworks pour discuter comparativement des technologies
 similaires à Salt. Nous sommes resortis avec une idée plus précise des
 forces et faiblesses de chacun, mais aussi des idée pour améliorer
-Salt.&lt;/p&gt;
+&lt;a class="reference external" href="http://saltstack.org"&gt;Salt&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Voici les &lt;a class="reference external" href="http://slides.com/arthurlogilab/meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-p-uppet#/"&gt;diapositives&lt;/a&gt;
-pour introduire la soirée.&lt;/p&gt;
+utilisées pour introduire la soirée.&lt;/p&gt;
 &lt;iframe
 src="//slides.com/arthurlogilab/meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-p-uppet/embed"
 width="576" height="420" scrolling="no" frameborder="0"
@@ -14,9 +14,9 @@ webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;p
 &lt;a class="reference external" href="http://wemanity.com/"&gt;Wemanity&lt;/a&gt;, Francois de &lt;a class="reference external" href="http://d2-si.eu"&gt;D2SI&lt;/a&gt; et Arthur de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;
 pour leurs interventions.&lt;/p&gt;
 &lt;img alt="Puppet Salt Ansible Chef Logilab Bearstech Wemanity D2SI" src="./images/compare_frameworks_salt_companies.png" /&gt;
-&lt;p&gt;Nous avons abordés 8 grandes thématiques :&lt;/p&gt;
+&lt;p&gt;Nous avons abordé 8 grandes thématiques :&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Introduction intervenants et leurs boites&lt;/li&gt;
+&lt;li&gt;Introduction intervenants et leurs entreprises&lt;/li&gt;
 &lt;li&gt;Introduction générale par projet, historique, key features,
 languages de programmation, DSLs, installation multiplateforme
 (linux, unix, windows, mac, etc. ?)&lt;/li&gt;
@@ -32,7 +32,7 @@ approche Devops&lt;/li&gt;
 open-source / open-core, formations, livres&lt;/li&gt;
 &lt;/ul&gt;
 &lt;img alt="Meetup Salt juin 2015" src="./images/salt-juin-2015.jpg" style="width: 600px;" /&gt;
-&lt;p&gt;Le meetup était visionnable en direct par streaming sur Dailymotion et
+&lt;p&gt;Le meetup était visionnable en direct en streaming sur Dailymotion et
 un montage de l'enregistrement a été publié par École42 :&lt;/p&gt;
 &lt;iframe frameborder="0" width="560" height="315"
 src="//www.dailymotion.com/embed/video/x2xk20e"
@@ -43,7 +43,7 @@ href="http://www.dailymotion.com/42Born2Code"
 target="_blank"&gt;42Born2Code&lt;/a&gt;&lt;/i&gt;&lt;p&gt;Nous avons fini la soirée autour de pizzas et boissons offertes par
 &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Lors de l'organisation (&lt;a class="reference external" href="https://lite5.framapad.org/p/organisation-comparaison-frameworks"&gt;sur le pad notamment&lt;/a&gt;)
-, plusieurs personnes ont montré un interret pour ce type de débat,
+, plusieurs personnes ont montré un intérrêt pour ce type de débat,
 notamment dans d'autres villes que Paris (Lyon, Rennes, Nantes),
 n'hésitez pas à nous en parler sur &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;la liste de discussion&lt;/a&gt; pour qu'on ré-itère
 l'experience.&lt;/p&gt;
