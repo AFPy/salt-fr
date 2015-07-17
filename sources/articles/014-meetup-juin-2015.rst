@@ -13,11 +13,11 @@ le meetup de juin était un peu particulier. Nous avons rassemblé
 plusieurs frameworks pour discuter comparativement des technologies
 similaires à Salt. Nous sommes resortis avec une idée plus précise des
 forces et faiblesses de chacun, mais aussi des idée pour améliorer
-Salt.
+`Salt <http://saltstack.org>`_.
 
 Voici les `diapositives
 <http://slides.com/arthurlogilab/meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-p-uppet#/>`_
-pour introduire la soirée.
+utilisées pour introduire la soirée.
 
 .. raw:: html
   
@@ -34,9 +34,9 @@ pour leurs interventions.
 .. image:: ./images/compare_frameworks_salt_companies.png
   :alt: Puppet Salt Ansible Chef Logilab Bearstech Wemanity D2SI
 
-Nous avons abordés 8 grandes thématiques : 
+Nous avons abordé 8 grandes thématiques : 
 
-* Introduction intervenants et leurs boites
+* Introduction intervenants et leurs entreprises
 
 * Introduction générale par projet, historique, key features,
   languages de programmation, DSLs, installation multiplateforme
@@ -64,7 +64,7 @@ Nous avons abordés 8 grandes thématiques :
   :width: 600
   :alt: Meetup Salt juin 2015
 
-Le meetup était visionnable en direct par streaming sur Dailymotion et
+Le meetup était visionnable en direct en streaming sur Dailymotion et
 un montage de l'enregistrement a été publié par École42 :
 
 .. raw:: html
@@ -82,7 +82,7 @@ Nous avons fini la soirée autour de pizzas et boissons offertes par
 
 Lors de l'organisation (`sur le pad notamment
 <https://lite5.framapad.org/p/organisation-comparaison-frameworks>`_)
-, plusieurs personnes ont montré un interret pour ce type de débat,
+, plusieurs personnes ont montré un intérrêt pour ce type de débat,
 notamment dans d'autres villes que Paris (Lyon, Rennes, Nantes),
 n'hésitez pas à nous en parler sur `la liste de discussion
 <http://lists.afpy.org/listinfo/salt-fr>`_ pour qu'on ré-itère
