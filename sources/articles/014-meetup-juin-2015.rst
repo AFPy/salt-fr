@@ -11,8 +11,8 @@ Comme `annoncé sur ce blog
 <http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html>`_,
 le meetup de juin était un peu particulier. Nous avons rassemblé
 plusieurs frameworks pour discuter comparativement des technologies
-similaires à Salt. Nous sommes resortis avec une idée plus précise des
-forces et faiblesses de chacun, mais aussi des idée pour améliorer
+similaires à Salt. Nous sommes ressortis avec une idée plus précise des
+forces et faiblesses de chacun, mais aussi des idées pour améliorer
 `Salt <http://saltstack.org>`_.
 
 Voici les `diapositives
@@ -39,20 +39,20 @@ Nous avons abordé 8 grandes thématiques :
 * Introduction intervenants et leurs entreprises
 
 * Introduction générale par projet, historique, key features,
-  languages de programmation, DSLs, installation multiplateforme
+  langages de programmation, DSLs, installation multiplateforme
   (linux, unix, windows, mac, etc. ?)
 
 * Déploiement de configuration et templating
 
-* Executions de commandes,  organisation des noeuds, machines, ciblage
+* Exécutions de commandes,  organisation des noeuds, machines, ciblage
 
 * Architecture (réseau, parefeux, bus de communication, protocoles) 
 
 * Extensibilité, plugins, écriture et déploiement
 
-* Orchestration, gestion de resources elastiques (cloud)
+* Orchestration, gestion de resources élastiques (cloud)
 
-* Délegation, collaboration, environnemnts (dev,preprod, prod),
+* Délégation, collaboration, environnements (dev, preprod, prod),
   approche Devops
 
 * Composants "sur étagère", taille de la communauté, utilisateurs notables
@@ -81,9 +81,9 @@ Nous avons fini la soirée autour de pizzas et boissons offertes par
 `Logilab <http://www.logilab.fr>`_. 
 
 Lors de l'organisation (`sur le pad notamment
-<https://lite5.framapad.org/p/organisation-comparaison-frameworks>`_)
-, plusieurs personnes ont montré un intérrêt pour ce type de débat,
+<https://lite5.framapad.org/p/organisation-comparaison-frameworks>`_),
+plusieurs personnes ont montré un intérêt pour ce type de débat,
 notamment dans d'autres villes que Paris (Lyon, Rennes, Nantes),
 n'hésitez pas à nous en parler sur `la liste de discussion
-<http://lists.afpy.org/listinfo/salt-fr>`_ pour qu'on ré-itère
-l'experience.
+<http://lists.afpy.org/listinfo/salt-fr>`_ pour qu'on réitère
+l'expérience.
