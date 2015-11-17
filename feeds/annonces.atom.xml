@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/annonces.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-06-05T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-06-05T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-06-05:annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/annonces.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-11-17T00:00:00+01:00</updated><entry><title>Annonce : Meetup Salt décembre 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html" rel="alternate"></link><updated>2015-11-17T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-11-17:annonce-meetup-salt-decembre-2015.html</id><summary type="html">&lt;p&gt;Le meetup de décembre de Salt se déroulera autour des sujets suivants
+:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -
+&lt;a class="reference external" href="https://twitter.com/arthurlutz"&gt;Arthur Lutz&lt;/a&gt; (&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Une interface web open-source pour Salt avec SaltPad v.2 en
+ReactJS - &lt;a class="reference external" href="https://twitter.com/lothiraldan"&gt;Boris Feld&lt;/a&gt;
+(&lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Comme d'habitude, en fonction du public, nous pourrons faire une
+courte introduction de Salt en début de meetup.&lt;/p&gt;
+&lt;p&gt;Le lieu sera annoncé prochainement.&lt;/p&gt;
+&lt;p&gt;Le meetup est gratuit mais il faut s'inscrire
+sur &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/226831550/"&gt;meetup.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="annonces"></category><category term="supervision"></category><category term="web"></category><category term="saltpad"></category></entry><entry><title>Annonce : Meetup Salt "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-06-05T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-06-05:annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
 pour défendres les &amp;quot;autres&amp;quot; frameworks. Et oui, la communauté nous
 demande souvent comment &lt;a class="reference external" href="http://saltstack.org"&gt;Salt&lt;/a&gt; se compare à
 des frameworks comme &lt;a class="reference external" href="http://puppetlabs.com/"&gt;Puppet&lt;/a&gt;, &lt;a class="reference external" href="http://chef.io"&gt;Chef&lt;/a&gt; ou &lt;a class="reference external" href="http://ansible.com"&gt;Ansible&lt;/a&gt;. Avantages,
