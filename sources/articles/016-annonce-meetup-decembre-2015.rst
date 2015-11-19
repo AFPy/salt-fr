@@ -22,9 +22,8 @@ Le meetup de décembre de Salt se déroulera autour des sujets suivants
 Comme d'habitude, en fonction du public, nous pourrons faire une
 courte introduction de Salt en début de meetup.
 
-Le meetup aura lieu chez Vivendi (merci à Julien de Canal+) au `42 Avenue 
-de Friedland, 75008 Paris <http://osm.org/go/0BPIDErTf?m=&node=839872459>` 
-(Metro Charles De Gaulle Etoile). 
+Le meetup aura lieu chez Vivendi (merci à Julien de Canal+) au `6 rue Tilsitt,
+75008 Paris <http://osm.org/go/0BPIDEsqT?m=>` (Metro Charles De Gaulle Etoile). 
 	
 Le meetup est gratuit mais il faut s'inscrire 
 sur `meetup.com
