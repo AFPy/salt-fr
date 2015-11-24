@@ -18,11 +18,20 @@ Générer le blog en local
 
 * Forker/Cloner le dépôt
 
-* Adapter un fichier de settings ``localsettings.py`` à partir de
-  ``localsetting.py.sample``
+* Installer les dépendances: sous debian jessie
+  ``apt-get install libjpeg-turbo-progs pelican optipng``
+
+* Cloner `les plugins <https://github.com/getpelican/pelican-plugins>`_
+  nécessaires
+
+* Cloner `les themes <https://github.com/getpelican/pelican-themes>`_
+  nécessaires
+
+* adapter le fichier de settings ``settings.py``
 
 * Lancer la génération du blog en local : ``pelican -s
-  localsettings.py`` et ``make serve``
+  settings.py`` et ``make serve`` et aller admirer le blog sur
+  ``http://localhost:8000``.
 
 Organisation collaborative
 ##########################
