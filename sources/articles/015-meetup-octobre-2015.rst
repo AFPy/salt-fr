@@ -14,12 +14,13 @@ tranquillement de:
 .. _Weborama: http://www.weborama.com/fr/
 .. _Heuritech: http://www.heuritech.com/
 
-* Cryptage au sein des fichiers salt, présenté par Ronan Amicel (`Pocket
+* Chiffrage au sein des fichiers salt, présenté par Ronan Amicel (`Pocket
   Sensei`_): plutôt que de devoir sécuriser l'intégralité d'un dépot il est
-  possible d'ajouter au sein des fichiers sls salt des blocs de texte cryptés
-  par gpg_. Ces blocs sont ensuites décodés à la volée par un filtre gpg_,
-  ajouté à la suite des filtres yaml et jinja2 sur le master. Seul le master
-  doit donc avoir accès à la clé de cryptage privée.
+  possible d'ajouter au sein des fichiers sls salt des blocs de texte chiffrés
+  par gpg_. Ces blocs sont ensuites décodés à la volée par un `renderer gpg
+  <https://docs.saltstack.com/en/latest/ref/renderers/all/salt.renderers.gpg.html>`_,
+  ajouté à la suite des renderer yaml et jinja2 sur le master. Seul le master
+  doit donc avoir accès à la clé privée.
 
 .. _`Pocket Sensei`: http://www.pocketsensei.fr/
 .. _GPG: https://www.gnupg.org/
