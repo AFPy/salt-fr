@@ -4,6 +4,7 @@
 &lt;ul class="simple"&gt;
 &lt;li&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -
 &lt;a class="reference external" href="https://twitter.com/arthurlutz"&gt;Arthur Lutz&lt;/a&gt; (&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Retour d'expérience : Un peu de sel pour être HAPI - &lt;a class="reference external" href="https://twitter.com/mrcitron"&gt;Metin OSMAN&lt;/a&gt; (&lt;a class="reference external" href="http://canalplus.github.io/"&gt;Canal+&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Une interface web open-source pour Salt avec SaltPad v.2 en
 ReactJS - &lt;a class="reference external" href="https://twitter.com/lothiraldan"&gt;Boris Feld&lt;/a&gt;
 (&lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt;)&lt;/li&gt;
