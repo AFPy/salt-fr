@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/paul-tonelli.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-10-08T00:00:00+02:00</updated><entry><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html" rel="alternate"></link><updated>2015-10-08T00:00:00+02:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2015-10-08:compte-rendu-salt-meetup-paris-octobre-2015.html</id><summary type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+&lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt; avec des pizzas offertes par &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;. Nous avons pu discuter
+tranquillement de:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Chiffrage au sein des fichiers salt, présenté par Ronan Amicel (&lt;a class="reference external" href="http://www.pocketsensei.fr/"&gt;Pocket
+Sensei&lt;/a&gt;): plutôt que de devoir sécuriser l'intégralité d'un dépot il est
+possible d'ajouter au sein des fichiers sls salt des blocs de texte chiffrés
+par &lt;a class="reference external" href="https://www.gnupg.org/"&gt;gpg&lt;/a&gt;. Ces blocs sont ensuites décodés à la volée par un filtre &lt;a class="reference external" href="https://www.gnupg.org/"&gt;gpg&lt;/a&gt;,
+ajouté à la suite des filtres yaml et jinja2 sur le master. Seul le master
+doit donc avoir accès à la clé de cryptage privée.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;L'utilisation de peer publish dans Salt par Damien Desmaret (&lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt;). Le
+&lt;a class="reference external" href="https://docs.saltstack.com/en/latest/ref/peer.html"&gt;peer-publish&lt;/a&gt; est un des moyens qui permet à des minions de lancer des
+opérations ou de récupérer des informations sur d'autres minions. Cela permet
+par exemple de mettre à jour les listes de pairs sur un cluster lors de
+l'ajout d'une machine. La suite avec le réactor lors d'un prochain meetup.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img alt="Meetup Salt octobre 2015" src="./images/salt-oct-2015.jpg" style="width: 600px;" /&gt;
+&lt;p&gt;N'hésitez pas à en parler sur &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;la liste de discussion&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="compte rendu"></category><category term="salt"></category><category term="gpg"></category><category term="peer-publish"></category></entry></feed>

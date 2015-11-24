@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/paul-tonelli.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 08 Oct 2015 00:00:00 +0200</lastBuildDate><item><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link>http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html</link><description>&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+&lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt; avec des pizzas offertes par &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;. Nous avons pu discuter
+tranquillement de:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Chiffrage au sein des fichiers salt, présenté par Ronan Amicel (&lt;a class="reference external" href="http://www.pocketsensei.fr/"&gt;Pocket
+Sensei&lt;/a&gt;): plutôt que de devoir sécuriser l'intégralité d'un dépot il est
+possible d'ajouter au sein des fichiers sls salt des blocs de texte chiffrés
+par &lt;a class="reference external" href="https://www.gnupg.org/"&gt;gpg&lt;/a&gt;. Ces blocs sont ensuites décodés à la volée par un filtre &lt;a class="reference external" href="https://www.gnupg.org/"&gt;gpg&lt;/a&gt;,
+ajouté à la suite des filtres yaml et jinja2 sur le master. Seul le master
+doit donc avoir accès à la clé de cryptage privée.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;L'utilisation de peer publish dans Salt par Damien Desmaret (&lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt;). Le
+&lt;a class="reference external" href="https://docs.saltstack.com/en/latest/ref/peer.html"&gt;peer-publish&lt;/a&gt; est un des moyens qui permet à des minions de lancer des
+opérations ou de récupérer des informations sur d'autres minions. Cela permet
+par exemple de mettre à jour les listes de pairs sur un cluster lors de
+l'ajout d'une machine. La suite avec le réactor lors d'un prochain meetup.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img alt="Meetup Salt octobre 2015" src="./images/salt-oct-2015.jpg" style="width: 600px;" /&gt;
+&lt;p&gt;N'hésitez pas à en parler sur &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;la liste de discussion&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Tonelli</dc:creator><pubDate>Thu, 08 Oct 2015 00:00:00 +0200</pubDate><guid>tag:salt-fr.afpy.org,2015-10-08:compte-rendu-salt-meetup-paris-octobre-2015.html</guid><category>compte rendu</category><category>salt</category><category>gpg</category><category>peer-publish</category></item></channel></rss>

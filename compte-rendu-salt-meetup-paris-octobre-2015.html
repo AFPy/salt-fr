@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Salt-fr, Rencontres des utilisateurs francophones de Salt">
+
+        <link rel="alternate"  href="http://salt-fr.afpy.org/feeds/all.atom.xml" type="application/atom+xml" title="Salt-fr Full Atom Feed"/>
+
+        <title>Compte rendu Salt Meetup Paris - octobre 2015 // Salt-fr // Rencontres des utilisateurs francophones de Salt</title>
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/theme/css/pure.css">
+    <link rel="stylesheet" href="http://salt-fr.afpy.org/theme/css/pygments.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
+</head>
+
+<body>
+<div class="pure-g-r" id="layout">
+    <div class="sidebar sidebar-article pure-u">
+        <header class="header-article">
+            <hgroup>
+                <a href="http://salt-fr.afpy.org/author/paul-tonelli.html" title="See posts by Paul Tonelli">
+                        <img class="avatar" alt="Paul Tonelli" src="http://www.gravatar.com/avatar/81a1bb58910e4fd9dcb7f05b9d6a0e62">
+                </a>
+                <h2 class="article-info">Paul Tonelli</h2>
+                <small class="about-author"></small>
+                <h5>Published</h5>
+                <p>jeu. 08 octobre 2015</p>
+                <a href="/">&larr;Home</a>
+            </hgroup>
+        </header>
+    </div>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Compte rendu Salt Meetup Paris - octobre 2015</h1>
+                        <p class="post-meta">
+                            // under                                 <a class="post-category" href="http://salt-fr.afpy.org/tag/compte-rendu.html">compte rendu</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/salt.html">salt</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/gpg.html">gpg</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/peer-publish.html">peer-publish</a>
+                        </p>
+                </header>
+            </section>
+            <p>Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+<a class="reference external" href="http://www.weborama.com/fr/">Weborama</a> avec des pizzas offertes par <a class="reference external" href="http://www.heuritech.com/">Heuritech</a>. Nous avons pu discuter
+tranquillement de:</p>
+<ul class="simple">
+<li>Chiffrage au sein des fichiers salt, présenté par Ronan Amicel (<a class="reference external" href="http://www.pocketsensei.fr/">Pocket
+Sensei</a>): plutôt que de devoir sécuriser l'intégralité d'un dépot il est
+possible d'ajouter au sein des fichiers sls salt des blocs de texte chiffrés
+par <a class="reference external" href="https://www.gnupg.org/">gpg</a>. Ces blocs sont ensuites décodés à la volée par un filtre <a class="reference external" href="https://www.gnupg.org/">gpg</a>,
+ajouté à la suite des filtres yaml et jinja2 sur le master. Seul le master
+doit donc avoir accès à la clé de cryptage privée.</li>
+</ul>
+<ul class="simple">
+<li>L'utilisation de peer publish dans Salt par Damien Desmaret (<a class="reference external" href="http://www.weborama.com/fr/">Weborama</a>). Le
+<a class="reference external" href="https://docs.saltstack.com/en/latest/ref/peer.html">peer-publish</a> est un des moyens qui permet à des minions de lancer des
+opérations ou de récupérer des informations sur d'autres minions. Cela permet
+par exemple de mettre à jour les listes de pairs sur un cluster lors de
+l'ajout d'une machine. La suite avec le réactor lors d'un prochain meetup.</li>
+</ul>
+<img alt="Meetup Salt octobre 2015" src="./images/salt-oct-2015.jpg" style="width: 600px;" />
+<p>N'hésitez pas à en parler sur <a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr">la liste de discussion</a>.</p>
+
+            <div class="hr"></div>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; Salt-fr &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+</div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>
