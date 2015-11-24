@@ -14,6 +14,9 @@ Le meetup de décembre de Salt se déroulera autour des sujets suivants
   `Arthur Lutz <https://twitter.com/arthurlutz>`_ (`Logilab
   <http://www.logilab.fr>`_)
 
+• Retour d'expérience : Un peu de sel pour être HAPI - `Metin OSMAN
+  <https://twitter.com/mrcitron>`_ (`Canal+ <http://canalplus.github.io/>`_)
+
 • Une interface web open-source pour Salt avec SaltPad v.2 en
   ReactJS - `Boris Feld <https://twitter.com/lothiraldan>`_
   (`tinyclues <http://www.tinyclues.com/>`_)
