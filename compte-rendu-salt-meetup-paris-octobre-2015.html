@@ -60,9 +60,9 @@ tranquillement de:</p>
 <li>Chiffrage au sein des fichiers salt, présenté par Ronan Amicel (<a class="reference external" href="http://www.pocketsensei.fr/">Pocket
 Sensei</a>): plutôt que de devoir sécuriser l'intégralité d'un dépot il est
 possible d'ajouter au sein des fichiers sls salt des blocs de texte chiffrés
-par <a class="reference external" href="https://www.gnupg.org/">gpg</a>. Ces blocs sont ensuites décodés à la volée par un filtre <a class="reference external" href="https://www.gnupg.org/">gpg</a>,
-ajouté à la suite des filtres yaml et jinja2 sur le master. Seul le master
-doit donc avoir accès à la clé de cryptage privée.</li>
+par <a class="reference external" href="https://www.gnupg.org/">gpg</a>. Ces blocs sont ensuites décodés à la volée par un <a class="reference external" href="https://docs.saltstack.com/en/latest/ref/renderers/all/salt.renderers.gpg.html">renderer gpg</a>,
+ajouté à la suite des renderer yaml et jinja2 sur le master. Seul le master
+doit donc avoir accès à la clé privée.</li>
 </ul>
 <ul class="simple">
 <li>L'utilisation de peer publish dans Salt par Damien Desmaret (<a class="reference external" href="http://www.weborama.com/fr/">Weborama</a>). Le
