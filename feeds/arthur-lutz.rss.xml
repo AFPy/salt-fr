@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/arthur-lutz.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 17 Nov 2015 00:00:00 +0100</lastBuildDate><item><title>Annonce : Meetup Salt décembre 2015</title><link>http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html</link><description>&lt;p&gt;Le meetup de décembre de Salt se déroulera autour des sujets suivants
-:&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/arthur-lutz.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 17 Nov 2015 00:00:00 +0100</lastBuildDate><item><title>Annonce : Meetup Salt décembre 2015</title><link>http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html</link><description>&lt;p&gt;Le meetup de décembre de Salt se déroulera le jeudi 17 décembre à partir de 19h, autour des sujets suivants :&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -
 &lt;a class="reference external" href="https://twitter.com/arthurlutz"&gt;Arthur Lutz&lt;/a&gt; (&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
@@ -11,8 +10,8 @@ ReactJS - &lt;a class="reference external" href="https://twitter.com/lothiraldan
 &lt;/ul&gt;
 &lt;p&gt;Comme d'habitude, en fonction du public, nous pourrons faire une
 courte introduction de Salt en début de meetup.&lt;/p&gt;
-&lt;p&gt;Le meetup aura lieu chez Vivendi (merci à Julien de Canal+) au &lt;cite&gt;6 rue Tilsitt,
-75008 Paris &amp;lt;http://osm.org/go/0BPIDEsqT?m=&amp;gt;&lt;/cite&gt; (Metro Charles De Gaulle Etoile).&lt;/p&gt;
+&lt;p&gt;Le meetup aura lieu chez Vivendi (merci à Julien de Canal+) au &lt;a class="reference external" href="http://osm.org/go/0BPIDEsqT?m="&gt;6 rue Tilsitt,
+75008 Paris&lt;/a&gt; (Metro Charles De Gaulle Etoile).&lt;/p&gt;
 &lt;p&gt;Le meetup est gratuit mais il faut s'inscrire
 sur &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/226831550/"&gt;meetup.com&lt;/a&gt;.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arthur Lutz</dc:creator><pubDate>Tue, 17 Nov 2015 00:00:00 +0100</pubDate><guid>tag:salt-fr.afpy.org,2015-11-17:annonce-meetup-salt-decembre-2015.html</guid><category>annonces</category><category>supervision</category><category>web</category><category>saltpad</category></item><item><title>Compte rendu "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link>http://salt-fr.afpy.org/compte-rendu-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</link><description>&lt;p&gt;Comme &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html"&gt;annoncé sur ce blog&lt;/a&gt;,
