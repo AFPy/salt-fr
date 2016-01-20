@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Salt-fr, Rencontres des utilisateurs francophones de Salt">
+
+        <link rel="alternate"  href="http://salt-fr.afpy.org/feeds/all.atom.xml" type="application/atom+xml" title="Salt-fr Full Atom Feed"/>
+
+        <title>Compte rendu (sommaire) du meetup Salt Paris de décembre 2015 // Salt-fr // Rencontres des utilisateurs francophones de Salt</title>
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/theme/css/pure.css">
+    <link rel="stylesheet" href="http://salt-fr.afpy.org/theme/css/pygments.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
+</head>
+
+<body>
+<div class="pure-g-r" id="layout">
+    <div class="sidebar sidebar-article pure-u">
+        <header class="header-article">
+            <hgroup>
+                <a href="http://salt-fr.afpy.org/author/arthur-lutz.html" title="See posts by Arthur Lutz">
+                        <img class="avatar" alt="Arthur Lutz" src="http://www.gravatar.com/avatar/37aa62b37005a57f8e2b261091d65a03">
+                </a>
+                <h2 class="article-info">Arthur Lutz</h2>
+                <small class="about-author"></small>
+                <h5>Published</h5>
+                <p>mer. 20 janvier 2016</p>
+                <a href="/">&larr;Home</a>
+            </hgroup>
+        </header>
+    </div>
+    <div class="pure-u">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Compte rendu (sommaire) du meetup Salt Paris de décembre 2015</h1>
+                        <p class="post-meta">
+                            // under                                 <a class="post-category" href="http://salt-fr.afpy.org/tag/supervision.html">supervision</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/web.html">web</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/saltpad.html">saltpad</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/logilab.html">logilab</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/tinyclues.html">tinyclues</a>
+                                <a class="post-category" href="http://salt-fr.afpy.org/tag/canal.html">canal+</a>
+                        </p>
+                </header>
+            </section>
+            <p>Le jeudi 17 decembre 2015, <a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html">comme annoncé</a>,
+une partie de la communauté Salt s'est réuni autour de trois
+présentation dans les locaux de Vivendi / Canal+.</p>
+<p><strong>Retour d'expérience : Un peu de sel pour être HAPI - Metin OSMAN (Canal+)</strong></p>
+<p>Metin Osman nous a présenté un retour d’expérience sur l'utilisation
+de Salt à Canal+ avec un peu de fabric, jenkins, git et des syndics
+Salt (mais aussi elasticsearch, logstash, redis, nginx,
+etc.). Prochainement ils espèrent utiliser gitfs et docker. La
+présentation est <a class="reference external" href="http://www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi">disponible sur slideshare</a>.</p>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/5gvdhLfqjWYoya" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi" title="Un peu de sel pour être HAPI" target="_blank">Un peu de sel pour être HAPI</a> </strong> from <strong><a href="//www.slideshare.net/plusdedev" target="_blank">Canal+ Dev</a></strong> </div><p><strong>La supervision pilotée par Salt avec carbon/graphite/grafana -  Arthur Lutz (Logilab)</strong></p>
+<p>Arthur Lutz a présenté une démo dans des docker (lancés par
+<a class="reference external" href="https://docs.docker.com/compose/">docker-compose</a>) en montant une
+architecture frontal+application+base de données et en supervisant le
+tout avec Salt. Les résultats de la supervision sont stockés dans un
+graphite (bases temporelles whisper) et des tableaux de bord sont
+construits en utilisant <a class="reference external" href="http://grafana.org/">grafana</a>. La démo est
+disponible dans un dépôt mercurial sur <a class="reference external" href="https://bitbucket.org/arthurlogilab/salt_graphite_grafana/">bitbucket
+(salt_graphite_grafana)</a>. Quelques
+<a class="reference external" href="http://slides.logilab.fr/2015/salted_graphite_grafana/">slides</a>
+pour introduire le tout sont aussi publiés.</p>
+<!-- img: https://twitter.com/plusdedev/status/677561189778505728 -->
+<!-- https://twitter.com/douardda/status/677560204343549953 -->
+<p><strong>Une interface web open-source pour Salt avec SaltPad v.2 en ReactJS - Boris Feld (tinyclues)</strong></p>
+<p>Boris a présenté la nouvelle version de SaltPad en <a class="reference external" href="http://facebook.github.io/react/">ReactJS</a> (la précédente version était en
+<a class="reference external" href="http://flask.pocoo.org/">Flask</a>)
+<a class="reference external" href="https://github.com/tinyclues/saltpad/">https://github.com/tinyclues/saltpad/</a></p>
+<p>Nous aurons peut-être, dans les prochaines semaines, une vidéo montée
+par <a class="reference external" href="https://twitter.com/Djiit">Julien</a> de Canal+.</p>
+<p>Merci à Canal+ / Vivendi pour le lieu. Merci à <a class="reference external" href="http://www.logilab.fr">Logilab</a> pour les pizzas &amp; bières.</p>
+<p>La suite : un meetup en février ?</p>
+
+            <div class="hr"></div>
+            <a href="#" class="go-top">Go Top</a>
+<footer class="footer">
+    <p>&copy; Salt-fr &ndash;
+        Built with <a href="https://github.com/PurePelicanTheme/pure">Pure Theme</a>
+        for <a href="http://blog.getpelican.com/">Pelican</a>
+    </p>
+</footer>        </div>
+    </div>
+</div>
+    <script>
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
+        });
+
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
+
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>

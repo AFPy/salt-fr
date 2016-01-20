@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-11-17T00:00:00+01:00</updated><entry><title>Annonce : Meetup Salt décembre 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html" rel="alternate"></link><updated>2015-11-17T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-11-17:annonce-meetup-salt-decembre-2015.html</id><summary type="html">&lt;p&gt;Le meetup de décembre de Salt se déroulera le jeudi 17 décembre à partir de 19h, autour des sujets suivants :&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2016-01-20T00:00:00+01:00</updated><entry><title>Compte rendu (sommaire) du meetup Salt Paris de décembre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-sommaire-du-meetup-salt-paris-de-decembre-2015.html" rel="alternate"></link><updated>2016-01-20T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2016-01-20:compte-rendu-sommaire-du-meetup-salt-paris-de-decembre-2015.html</id><summary type="html">&lt;p&gt;Le jeudi 17 decembre 2015, &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html"&gt;comme annoncé&lt;/a&gt;,
+une partie de la communauté Salt s'est réuni autour de trois
+présentation dans les locaux de Vivendi / Canal+.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Retour d'expérience : Un peu de sel pour être HAPI - Metin OSMAN (Canal+)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metin Osman nous a présenté un retour d’expérience sur l'utilisation
+de Salt à Canal+ avec un peu de fabric, jenkins, git et des syndics
+Salt (mais aussi elasticsearch, logstash, redis, nginx,
+etc.). Prochainement ils espèrent utiliser gitfs et docker. La
+présentation est &lt;a class="reference external" href="http://www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi"&gt;disponible sur slideshare&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/5gvdhLfqjWYoya" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="//www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi" title="Un peu de sel pour être HAPI" target="_blank"&gt;Un peu de sel pour être HAPI&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="//www.slideshare.net/plusdedev" target="_blank"&gt;Canal+ Dev&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;p&gt;&lt;strong&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -  Arthur Lutz (Logilab)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Arthur Lutz a présenté une démo dans des docker (lancés par
+&lt;a class="reference external" href="https://docs.docker.com/compose/"&gt;docker-compose&lt;/a&gt;) en montant une
+architecture frontal+application+base de données et en supervisant le
+tout avec Salt. Les résultats de la supervision sont stockés dans un
+graphite (bases temporelles whisper) et des tableaux de bord sont
+construits en utilisant &lt;a class="reference external" href="http://grafana.org/"&gt;grafana&lt;/a&gt;. La démo est
+disponible dans un dépôt mercurial sur &lt;a class="reference external" href="https://bitbucket.org/arthurlogilab/salt_graphite_grafana/"&gt;bitbucket
+(salt_graphite_grafana)&lt;/a&gt;. Quelques
+&lt;a class="reference external" href="http://slides.logilab.fr/2015/salted_graphite_grafana/"&gt;slides&lt;/a&gt;
+pour introduire le tout sont aussi publiés.&lt;/p&gt;
+&lt;!-- img: https://twitter.com/plusdedev/status/677561189778505728 --&gt;
+&lt;!-- https://twitter.com/douardda/status/677560204343549953 --&gt;
+&lt;p&gt;&lt;strong&gt;Une interface web open-source pour Salt avec SaltPad v.2 en ReactJS - Boris Feld (tinyclues)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Boris a présenté la nouvelle version de SaltPad en &lt;a class="reference external" href="http://facebook.github.io/react/"&gt;ReactJS&lt;/a&gt; (la précédente version était en
+&lt;a class="reference external" href="http://flask.pocoo.org/"&gt;Flask&lt;/a&gt;)
+&lt;a class="reference external" href="https://github.com/tinyclues/saltpad/"&gt;https://github.com/tinyclues/saltpad/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nous aurons peut-être, dans les prochaines semaines, une vidéo montée
+par &lt;a class="reference external" href="https://twitter.com/Djiit"&gt;Julien&lt;/a&gt; de Canal+.&lt;/p&gt;
+&lt;p&gt;Merci à Canal+ / Vivendi pour le lieu. Merci à &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; pour les pizzas &amp;amp; bières.&lt;/p&gt;
+&lt;p&gt;La suite : un meetup en février ?&lt;/p&gt;
+</summary><category term="supervision"></category><category term="web"></category><category term="saltpad"></category><category term="logilab"></category><category term="tinyclues"></category><category term="canal+"></category></entry><entry><title>Annonce : Meetup Salt décembre 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html" rel="alternate"></link><updated>2015-11-17T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-11-17:annonce-meetup-salt-decembre-2015.html</id><summary type="html">&lt;p&gt;Le meetup de décembre de Salt se déroulera le jeudi 17 décembre à partir de 19h, autour des sujets suivants :&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -
 &lt;a class="reference external" href="https://twitter.com/arthurlutz"&gt;Arthur Lutz&lt;/a&gt; (&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
