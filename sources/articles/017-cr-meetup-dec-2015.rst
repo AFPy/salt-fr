@@ -29,7 +29,7 @@ présentation est `disponible sur slideshare
 **La supervision pilotée par Salt avec carbon/graphite/grafana -  Arthur Lutz (Logilab)**
 
 
-.. image:: https://twitter.com/plusdedev/status/677561189778505728
+.. image:: https://pbs.twimg.com/media/CWcuTcyW4AAr7bZ.jpg
 	   :alt: Salt Meetup 
 
 Arthur Lutz a présenté une démo dans des docker (lancés par
