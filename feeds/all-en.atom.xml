@@ -9,7 +9,7 @@ Salt (mais aussi elasticsearch, logstash, redis, nginx,
 etc.). Prochainement ils espèrent utiliser gitfs et docker. La
 présentation est &lt;a class="reference external" href="http://www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi"&gt;disponible sur slideshare&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/5gvdhLfqjWYoya" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="//www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi" title="Un peu de sel pour être HAPI" target="_blank"&gt;Un peu de sel pour être HAPI&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="//www.slideshare.net/plusdedev" target="_blank"&gt;Canal+ Dev&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;p&gt;&lt;strong&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -  Arthur Lutz (Logilab)&lt;/strong&gt;&lt;/p&gt;
-&lt;img alt="Salt Meetup" src="https://twitter.com/plusdedev/status/677561189778505728" /&gt;
+&lt;img alt="Salt Meetup" src="https://pbs.twimg.com/media/CWcuTcyW4AAr7bZ.jpg" /&gt;
 &lt;p&gt;Arthur Lutz a présenté une démo dans des docker (lancés par
 &lt;a class="reference external" href="https://docs.docker.com/compose/"&gt;docker-compose&lt;/a&gt;) en montant une
 architecture frontal+application+base de données et en supervisant le
