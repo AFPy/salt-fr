@@ -9,6 +9,7 @@ Salt (mais aussi elasticsearch, logstash, redis, nginx,
 etc.). Prochainement ils espèrent utiliser gitfs et docker. La
 présentation est &lt;a class="reference external" href="http://www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi"&gt;disponible sur slideshare&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/5gvdhLfqjWYoya" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="//www.slideshare.net/plusdedev/un-peu-de-sel-pour-tre-hapi" title="Un peu de sel pour être HAPI" target="_blank"&gt;Un peu de sel pour être HAPI&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="//www.slideshare.net/plusdedev" target="_blank"&gt;Canal+ Dev&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;p&gt;&lt;strong&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -  Arthur Lutz (Logilab)&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="Salt Meetup" src="https://twitter.com/plusdedev/status/677561189778505728" /&gt;
 &lt;p&gt;Arthur Lutz a présenté une démo dans des docker (lancés par
 &lt;a class="reference external" href="https://docs.docker.com/compose/"&gt;docker-compose&lt;/a&gt;) en montant une
 architecture frontal+application+base de données et en supervisant le
@@ -19,12 +20,13 @@ disponible dans un dépôt mercurial sur &lt;a class="reference external" href="
 (salt_graphite_grafana)&lt;/a&gt;. Quelques
 &lt;a class="reference external" href="http://slides.logilab.fr/2015/salted_graphite_grafana/"&gt;slides&lt;/a&gt;
 pour introduire le tout sont aussi publiés.&lt;/p&gt;
-&lt;!-- img: https://twitter.com/plusdedev/status/677561189778505728 --&gt;
+&lt;img alt="Salt + Graphite + Grafana" src="https://bytebucket.org/arthurlogilab/salt_graphite_grafana/raw/0474047592e3c65f683792543be24f0370da8f73/Screenshot.png" /&gt;
 &lt;!-- https://twitter.com/douardda/status/677560204343549953 --&gt;
 &lt;p&gt;&lt;strong&gt;Une interface web open-source pour Salt avec SaltPad v.2 en ReactJS - Boris Feld (tinyclues)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Boris a présenté la nouvelle version de SaltPad en &lt;a class="reference external" href="http://facebook.github.io/react/"&gt;ReactJS&lt;/a&gt; (la précédente version était en
 &lt;a class="reference external" href="http://flask.pocoo.org/"&gt;Flask&lt;/a&gt;)
 &lt;a class="reference external" href="https://github.com/tinyclues/saltpad/"&gt;https://github.com/tinyclues/saltpad/&lt;/a&gt;&lt;/p&gt;
+&lt;img alt="Saltpad screenshot" src="https://github.com/tinyclues/saltpad/raw/master/screenshots/highstate_result.png" /&gt;
 &lt;p&gt;Nous aurons peut-être, dans les prochaines semaines, une vidéo montée
 par &lt;a class="reference external" href="https://twitter.com/Djiit"&gt;Julien&lt;/a&gt; de Canal+.&lt;/p&gt;
 &lt;p&gt;Merci à Canal+ / Vivendi pour le lieu. Merci à &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; pour les pizzas &amp;amp; bières.&lt;/p&gt;
