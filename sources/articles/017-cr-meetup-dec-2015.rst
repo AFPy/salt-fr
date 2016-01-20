@@ -62,7 +62,7 @@ https://github.com/tinyclues/saltpad/
 Nous aurons peut-être, dans les prochaines semaines, une vidéo montée
 par `Julien <https://twitter.com/Djiit>`_ de Canal+.
 
-Merci à Canal+ / Vivendi pour le lieu. Merci à `Logilab
+Merci à `Canal+ <http://canalplus.github.io/>`_ / Vivendi pour le lieu. Merci à `Logilab
 <http://www.logilab.fr>`_ pour les pizzas & bières.
 
 La suite : un meetup en février ?
