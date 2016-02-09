@@ -29,6 +29,12 @@ pour introduire le tout sont aussi publiés.&lt;/p&gt;
 &lt;img alt="Saltpad screenshot" src="https://github.com/tinyclues/saltpad/raw/master/screenshots/highstate_result.png" /&gt;
 &lt;p&gt;Nous aurons peut-être, dans les prochaines semaines, une vidéo montée
 par &lt;a class="reference external" href="https://twitter.com/Djiit"&gt;Julien&lt;/a&gt; de Canal+.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt; : voici les vidéos, merci à Julien.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.dailymotion.com/video/x3qty5q_salt-fr-12-15-un-peu-de-sel-pour-etre-hapi_tech"&gt;Un peu de sel pour être HAPI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.dailymotion.com/video/x3qty5r_salt-fr-12-15-la-supervision-pilotee-par-salt-avec-carbon-graphite-grafana_tech"&gt;La supervision pilotée par Salt avec carbon/graphite/grafana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.dailymotion.com/video/x3qty5p_salt-fr-12-15-saltpad-v-2-en-reactjs_tech"&gt;Une interface web open-source pour Salt avec SaltPad v.2 en ReactJS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Merci à &lt;a class="reference external" href="http://canalplus.github.io/"&gt;Canal+&lt;/a&gt; / Vivendi pour le lieu. Merci à &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; pour les pizzas &amp;amp; bières.&lt;/p&gt;
 &lt;p&gt;La suite : un meetup en février ?&lt;/p&gt;
 </summary><category term="supervision"></category><category term="web"></category><category term="saltpad"></category><category term="logilab"></category><category term="tinyclues"></category><category term="canal+"></category></entry><entry><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html" rel="alternate"></link><updated>2015-10-08T00:00:00+02:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2015-10-08:compte-rendu-salt-meetup-paris-octobre-2015.html</id><summary type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
