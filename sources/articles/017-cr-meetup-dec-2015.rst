@@ -62,6 +62,12 @@ https://github.com/tinyclues/saltpad/
 Nous aurons peut-être, dans les prochaines semaines, une vidéo montée
 par `Julien <https://twitter.com/Djiit>`_ de Canal+.
 
+**Update** : voici les vidéos, merci à Julien.
+
+* `Un peu de sel pour être HAPI <http://www.dailymotion.com/video/x3qty5q_salt-fr-12-15-un-peu-de-sel-pour-etre-hapi_tech>`_
+* `La supervision pilotée par Salt avec carbon/graphite/grafana <http://www.dailymotion.com/video/x3qty5r_salt-fr-12-15-la-supervision-pilotee-par-salt-avec-carbon-graphite-grafana_tech>`_
+* `Une interface web open-source pour Salt avec SaltPad v.2 en ReactJS <http://www.dailymotion.com/video/x3qty5p_salt-fr-12-15-saltpad-v-2-en-reactjs_tech>`_
+
 Merci à `Canal+ <http://canalplus.github.io/>`_ / Vivendi pour le lieu. Merci à `Logilab
 <http://www.logilab.fr>`_ pour les pizzas & bières.
 
