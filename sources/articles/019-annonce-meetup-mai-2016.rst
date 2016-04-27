@@ -38,7 +38,8 @@ buffet après les présentations. L'adresse est le `156 bd Haussmann, Paris
 Miromesnil).
 
 .. image :: http://static1.squarespace.com/static/53f49e4de4b0cdefac5c6ce2/t/5443aac8e4b0164ae27998eb/1446566587974/?format=400w
-	
-Le meetup est gratuit mais il faut s'inscrire 
-sur `meetup.com <http://www.meetup.com/Paris-Salt-Meetup/events/230682687/>`_
+   :alt: wescale
+
+Le meetup est gratuit mais il faut s'inscrire sur `meetup.com
+<http://www.meetup.com/Paris-Salt-Meetup/events/230682687/>`_
 
