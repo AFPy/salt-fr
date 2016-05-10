@@ -14,7 +14,7 @@ C'est le début du premier meetup Salt de 2016, hébergés et régalés par
 avons partagé un bon moment dans une ambiance détendue. Suite à pas
 mal de changements dans le programme, deux présentations:
 
-- Aurélien, de l'ENS nous a fait `une présentattion des Beacons
+- Aurélien, de l'ENS nous a fait `une présentation des Beacons
   <http://salt-fr.afpy.org/presentations/aminet_20160223_beacons.pdf>`_;
 
 - ensuite, pour les débutant présents il a enchainé sur une
