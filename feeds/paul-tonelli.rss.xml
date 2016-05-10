@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/paul-tonelli.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 08 Oct 2015 00:00:00 +0200</lastBuildDate><item><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link>http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html</link><description>&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Salt-fr</title><link>http://salt-fr.afpy.org/</link><description></description><atom:link href="http://salt-fr.afpy.org/feeds/paul-tonelli.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0100</lastBuildDate><item><title>Compte rendu: Meetup Salt Paris chez D2SI</title><link>http://salt-fr.afpy.org/compte-rendu-meetup-salt-paris-chez-d2si.html</link><description>&lt;p&gt;20h, un soir d'hiver, sous les toits parisiens, un vidéoprojecteur s'allume...&lt;/p&gt;
+&lt;p&gt;C'est le début du premier meetup Salt de 2016, hébergés et régalés par
+&lt;a class="reference external" href="http://www.d2-si.fr/"&gt;D2SI&lt;/a&gt;, merci à Julien pour son accueil. Nous
+avons partagé un bon moment dans une ambiance détendue. Suite à pas
+mal de changements dans le programme, deux présentations:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Aurélien, de l'ENS nous a fait &lt;a class="reference external" href="http://salt-fr.afpy.org/presentations/aminet_20160223_beacons.pdf"&gt;une présentattion des Beacons&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;ensuite, pour les débutant présents il a enchainé sur une
+introduction plus générale à Salt déjà présentée lors des &lt;a class="reference external" href="https://www.jres.org/"&gt;JRES 2015&lt;/a&gt;, &lt;a class="reference external" href="https://conf-ng.jres.org/2015/document_revision_2678.html?download"&gt;la présentation&lt;/a&gt;,
+&lt;a class="reference external" href="https://conf-ng.jres.org/2015/document_revision_1749.html?download"&gt;l'article&lt;/a&gt;
+et &lt;a class="reference external" href="https://www.jres.org/fr/videotheque?iditem=182&amp;amp;resolution=480"&gt;la video&lt;/a&gt;
+sont en ligne sur le site de &lt;a class="reference external" href="https://www.jres.org/programme"&gt;JRES&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Tonelli</dc:creator><pubDate>Tue, 23 Feb 2016 00:00:00 +0100</pubDate><guid>tag:salt-fr.afpy.org,2016-02-23:compte-rendu-meetup-salt-paris-chez-d2si.html</guid><category>compte rendu</category><category>salt</category></item><item><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link>http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html</link><description>&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
 &lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt; avec des pizzas offertes par &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;. Nous avons pu discuter
 tranquillement de:&lt;/p&gt;
 &lt;ul class="simple"&gt;
