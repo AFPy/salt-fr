@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/paul-tonelli.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2016-02-23T00:00:00+01:00</updated><entry><title>Compte rendu: Meetup Salt Paris chez D2SI</title><link href="http://salt-fr.afpy.org/compte-rendu-meetup-salt-paris-chez-d2si.html" rel="alternate"></link><updated>2016-02-23T00:00:00+01:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2016-02-23:compte-rendu-meetup-salt-paris-chez-d2si.html</id><summary type="html">&lt;p&gt;20h, un soir d'hiver, sous les toits parisiens, un vidéoprojecteur s'allume...&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr - Paul Tonelli</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/paul-tonelli.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2016-02-23T00:00:00+01:00</updated><entry><title>Compte rendu: Meetup Salt Paris chez D2SI</title><link href="http://salt-fr.afpy.org/compte-rendu-meetup-salt-paris-chez-d2si.html" rel="alternate"></link><published>2016-02-23T00:00:00+01:00</published><updated>2016-02-23T00:00:00+01:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2016-02-23:/compte-rendu-meetup-salt-paris-chez-d2si.html</id><summary type="html">&lt;p&gt;20h, un soir d'hiver, sous les toits parisiens, un vidéoprojecteur s'allume...&lt;/p&gt;
+&lt;p&gt;C'est le début du premier meetup Salt de 2016, hébergés et régalés par
+&lt;a class="reference external" href="http://www.d2-si.fr/"&gt;D2SI&lt;/a&gt;, merci à Julien pour son accueil. Nous
+avons partagé un bon moment dans une ambiance détendue. Suite à pas
+mal de changements dans le programme …&lt;/p&gt;</summary><content type="html">&lt;p&gt;20h, un soir d'hiver, sous les toits parisiens, un vidéoprojecteur s'allume...&lt;/p&gt;
 &lt;p&gt;C'est le début du premier meetup Salt de 2016, hébergés et régalés par
 &lt;a class="reference external" href="http://www.d2-si.fr/"&gt;D2SI&lt;/a&gt;, merci à Julien pour son accueil. Nous
 avons partagé un bon moment dans une ambiance détendue. Suite à pas
@@ -12,7 +16,13 @@ introduction plus générale à Salt déjà présentée lors des &lt;a class="re
 et &lt;a class="reference external" href="https://www.jres.org/fr/videotheque?iditem=182&amp;amp;resolution=480"&gt;la video&lt;/a&gt;
 sont en ligne sur le site de &lt;a class="reference external" href="https://www.jres.org/programme"&gt;JRES&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="compte rendu"></category><category term="salt"></category></entry><entry><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html" rel="alternate"></link><updated>2015-10-08T00:00:00+02:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2015-10-08:compte-rendu-salt-meetup-paris-octobre-2015.html</id><summary type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+</content><category term="compte rendu"></category><category term="salt"></category></entry><entry><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html" rel="alternate"></link><published>2015-10-08T00:00:00+02:00</published><updated>2015-10-08T00:00:00+02:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2015-10-08:/compte-rendu-salt-meetup-paris-octobre-2015.html</id><summary type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+&lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt; avec des pizzas offertes par &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;. Nous avons pu discuter
+tranquillement de:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Chiffrage au sein des fichiers salt, présenté par Ronan Amicel (&lt;a class="reference external" href="http://www.pocketsensei.fr/"&gt;Pocket
+Sensei&lt;/a&gt;): plutôt que de devoir sécuriser l'intégralité d'un dépot il est
+possible d'ajouter au sein …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
 &lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt; avec des pizzas offertes par &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;. Nous avons pu discuter
 tranquillement de:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -32,4 +42,4 @@ l'ajout d'une machine. La suite avec le réactor lors d'un prochain meetup.&lt;/
 &lt;/ul&gt;
 &lt;img alt="Meetup Salt octobre 2015" src="./images/salt-oct-2015.jpg" style="width: 600px;" /&gt;
 &lt;p&gt;N'hésitez pas à en parler sur &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;la liste de discussion&lt;/a&gt;.&lt;/p&gt;
-</summary><category term="compte rendu"></category><category term="salt"></category><category term="gpg"></category><category term="peer-publish"></category></entry></feed>
+</content><category term="compte rendu"></category><category term="salt"></category><category term="gpg"></category><category term="peer-publish"></category></entry></feed>

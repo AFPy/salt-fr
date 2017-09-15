@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/david-douard.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-02-16T00:00:00+01:00</updated><entry><title>Compte rendu Salt Meetup Paris - février 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-fevrier-2015.html" rel="alternate"></link><updated>2015-02-16T00:00:00+01:00</updated><author><name>David Douard</name></author><id>tag:salt-fr.afpy.org,2015-02-16:compte-rendu-salt-meetup-paris-fevrier-2015.html</id><summary type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr - David Douard</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/david-douard.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2015-02-16T00:00:00+01:00</updated><entry><title>Compte rendu Salt Meetup Paris - février 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-fevrier-2015.html" rel="alternate"></link><published>2015-02-16T00:00:00+01:00</published><updated>2015-02-16T00:00:00+01:00</updated><author><name>David Douard</name></author><id>tag:salt-fr.afpy.org,2015-02-16:/compte-rendu-salt-meetup-paris-fevrier-2015.html</id><summary type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
+dans les locaux parisiens de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; pour son premier &lt;em&gt;meetup&lt;/em&gt; de
+l'année, autour de trois présentations. Voici un compte rendu (très
+court) pour vous renvoyer vers les références.&lt;/p&gt;
+&lt;img alt="David Douard" src="../images/saltmeetup_douardda.jpg" /&gt;
+&lt;div class="section" id="utiliser-salt-dans-des-docker"&gt;
+&lt;h2&gt;Utiliser salt dans des docker&lt;/h2&gt;
+&lt;p&gt;David Douard de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une rapide …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
 dans les locaux parisiens de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; pour son premier &lt;em&gt;meetup&lt;/em&gt; de
 l'année, autour de trois présentations. Voici un compte rendu (très
 court) pour vous renvoyer vers les références.&lt;/p&gt;
@@ -59,4 +66,4 @@ les pizzas.&lt;/p&gt;
 à inscrire une proposition de présentation ou de lieu sur le &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;pad
 d'organisation&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="cr"></category><category term="dailymotion"></category></entry></feed>
+</content><category term="cr"></category><category term="dailymotion"></category></entry></feed>

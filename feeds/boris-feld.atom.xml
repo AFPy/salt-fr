@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/boris-feld.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-10-21T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt Paris - Novembre 2014</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-novembre-2014.html" rel="alternate"></link><updated>2014-10-21T00:00:00+02:00</updated><author><name>Boris Feld</name></author><id>tag:salt-fr.afpy.org,2014-10-21:annonce-meetup-salt-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;Oyez, oyez salters, notre prochain meetup se déroulera le mardi 18
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr - Boris Feld</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/boris-feld.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2014-10-21T00:00:00+02:00</updated><entry><title>Annonce : Meetup Salt Paris - Novembre 2014</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-novembre-2014.html" rel="alternate"></link><published>2014-10-21T00:00:00+02:00</published><updated>2014-10-21T00:00:00+02:00</updated><author><name>Boris Feld</name></author><id>tag:salt-fr.afpy.org,2014-10-21:/annonce-meetup-salt-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;Oyez, oyez salters, notre prochain meetup se déroulera le mardi 18
+novembre à partir de 19h chez tinyclues qui est fier de nous héberger
+et de pouvoir sponsoriser cet évènement.&lt;/p&gt;
+&lt;p&gt;Voici la liste des présentations qui seront données :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Salt et la gestion d'un parc de postes utilisateurs, &lt;a class="reference external" href="http://caskroom.io/"&gt;homebrew cask&lt;/a&gt; pour …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Oyez, oyez salters, notre prochain meetup se déroulera le mardi 18
 novembre à partir de 19h chez tinyclues qui est fier de nous héberger
 et de pouvoir sponsoriser cet évènement.&lt;/p&gt;
 &lt;p&gt;Voici la liste des présentations qui seront données :&lt;/p&gt;
@@ -29,4 +34,4 @@ France
 Métro Réaumur - Sébastopol ou Strasbourg Saint-Denis.
 &lt;/pre&gt;
 &lt;p&gt;En espérant vous voir nombreux, saltez bien !&lt;/p&gt;
-</summary><category term="annonces"></category></entry></feed>
+</content><category term="annonces"></category></entry></feed>

@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2016-04-27T00:00:00+02:00</updated><entry><title>Annonce : Meetup Mai 2016 : Salt, Docker, Sentry</title><link href="http://salt-fr.afpy.org/annonce-meetup-mai-2016-salt-docker-sentry.html" rel="alternate"></link><updated>2016-04-27T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2016-04-27:annonce-meetup-mai-2016-salt-docker-sentry.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Tests d'intégration avec Salt &amp;amp; Docker, collecte d'erreurs Salt avec Sentry&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt-fr</title><link href="http://salt-fr.afpy.org/" rel="alternate"></link><link href="http://salt-fr.afpy.org/feeds/all.atom.xml" rel="self"></link><id>http://salt-fr.afpy.org/</id><updated>2017-09-15T00:00:00+02:00</updated><entry><title>Annonce : Meetup septembre 2017 - salt-cloud, formulas</title><link href="http://salt-fr.afpy.org/annonce-meetup-septembre-2017-salt-cloud-formulas.html" rel="alternate"></link><published>2017-09-15T00:00:00+02:00</published><updated>2017-09-15T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2017-09-15:/annonce-meetup-septembre-2017-salt-cloud-formulas.html</id><summary type="html">&lt;p&gt;C'est la rentrée des meetups !&lt;/p&gt;
+&lt;p&gt;Pour ce meetup de rentrée, nous aurons (au moins) trois présentations :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction à SaltStack et son écosystème&lt;/li&gt;
+&lt;li&gt;Quelles nouveautés dans la version 2017.7 de Salt Nitrogen ?&lt;/li&gt;
+&lt;li&gt;Utiliser les formula pour déployer des composants logiciels sur le cloud (avec salt-cloud)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N'oubliez pas la liste de …&lt;/p&gt;</summary><content type="html">&lt;p&gt;C'est la rentrée des meetups !&lt;/p&gt;
+&lt;p&gt;Pour ce meetup de rentrée, nous aurons (au moins) trois présentations :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction à SaltStack et son écosystème&lt;/li&gt;
+&lt;li&gt;Quelles nouveautés dans la version 2017.7 de Salt Nitrogen ?&lt;/li&gt;
+&lt;li&gt;Utiliser les formula pour déployer des composants logiciels sur le cloud (avec salt-cloud)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N'oubliez pas la liste de discussion &lt;a class="reference external" href="https://lists.afpy.org/mailman/listinfo/salt-fr"&gt;https://lists.afpy.org/mailman/listinfo/salt-fr&lt;/a&gt; (merci à l'&lt;a class="reference external" href="http://afpy.org"&gt;AFPY&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Merci d'avance à &lt;a class="reference external" href="http://www2.heuritech.com/"&gt;Heuritech&lt;/a&gt;  qui nous acceuille, et à &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; pour l’apéro dînatoire.&lt;/p&gt;
+&lt;p&gt;Le meetup est gratuit mais il faut s'inscrire sur &lt;a class="reference external" href="https://www.meetup.com/Paris-Salt-Meetup/events/243390968/"&gt;meetup.com&lt;/a&gt;&lt;/p&gt;
+</content><category term="annonces"></category><category term="salt-cloud"></category><category term="formulas"></category></entry><entry><title>Annonce : Meetup Mai 2016 : Salt, Docker, Sentry</title><link href="http://salt-fr.afpy.org/annonce-meetup-mai-2016-salt-docker-sentry.html" rel="alternate"></link><published>2016-04-27T00:00:00+02:00</published><updated>2016-04-27T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2016-04-27:/annonce-meetup-mai-2016-salt-docker-sentry.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Tests d'intégration avec Salt &amp;amp; Docker, collecte d'erreurs Salt avec Sentry&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Le meetup de mai de Salt se déroulera le jeudi 12 mai à partir de 19h, autour des sujets suivants :&lt;/p&gt;
-&lt;ul&gt;
+&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;dl class="first docutils"&gt;
 &lt;dt&gt;Séven Le Mesle (&lt;a class="reference external" href="http://twitter.com/slemesle"&gt;&amp;#64;slemesle&lt;/a&gt;) de&lt;/dt&gt;
-&lt;dd&gt;&lt;p class="first last"&gt;&lt;a class="reference external" href="http://www.wescale.fr"&gt;WeScale&lt;/a&gt; présentera un retour
+&lt;dd&gt;&lt;a class="reference external" href="http://www.wescale.fr"&gt;WeScale&lt;/a&gt; présentera un retour
+d'expérience sur la façon dont ils utilisent Salt et Docker pour …&lt;/dd&gt;&lt;/dl&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;Tests d'intégration avec Salt &amp;amp; Docker, collecte d'erreurs Salt avec Sentry&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le meetup de mai de Salt se déroulera le jeudi 12 mai à partir de 19h, autour des sujets suivants :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Séven Le Mesle (&lt;a class="reference external" href="http://twitter.com/slemesle"&gt;&amp;#64;slemesle&lt;/a&gt;) de&lt;/dt&gt;
+&lt;dd&gt;&lt;a class="reference external" href="http://www.wescale.fr"&gt;WeScale&lt;/a&gt; présentera un retour
 d'expérience sur la façon dont ils utilisent Salt et Docker pour
 réaliser des tests d'intégration permettant de valider la
-configuration de machine provisionnées avec Salt&lt;/p&gt;
-&lt;/dd&gt;
+configuration de machine provisionnées avec Salt&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -26,7 +48,11 @@ buffet après les présentations. L'adresse est le &lt;a class="reference extern
 Miromesnil).&lt;/p&gt;
 &lt;img alt="wescale" src="http://static1.squarespace.com/static/53f49e4de4b0cdefac5c6ce2/t/5443aac8e4b0164ae27998eb/1446566587974/?format=400w" /&gt;
 &lt;p&gt;Le meetup est gratuit mais il faut s'inscrire sur &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/230682687/"&gt;meetup.com&lt;/a&gt;&lt;/p&gt;
-</summary><category term="annonces"></category><category term="sentry"></category><category term="docker"></category></entry><entry><title>Compte rendu: Meetup Salt Paris chez D2SI</title><link href="http://salt-fr.afpy.org/compte-rendu-meetup-salt-paris-chez-d2si.html" rel="alternate"></link><updated>2016-02-23T00:00:00+01:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2016-02-23:compte-rendu-meetup-salt-paris-chez-d2si.html</id><summary type="html">&lt;p&gt;20h, un soir d'hiver, sous les toits parisiens, un vidéoprojecteur s'allume...&lt;/p&gt;
+</content><category term="annonces"></category><category term="sentry"></category><category term="docker"></category></entry><entry><title>Compte rendu: Meetup Salt Paris chez D2SI</title><link href="http://salt-fr.afpy.org/compte-rendu-meetup-salt-paris-chez-d2si.html" rel="alternate"></link><published>2016-02-23T00:00:00+01:00</published><updated>2016-02-23T00:00:00+01:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2016-02-23:/compte-rendu-meetup-salt-paris-chez-d2si.html</id><summary type="html">&lt;p&gt;20h, un soir d'hiver, sous les toits parisiens, un vidéoprojecteur s'allume...&lt;/p&gt;
+&lt;p&gt;C'est le début du premier meetup Salt de 2016, hébergés et régalés par
+&lt;a class="reference external" href="http://www.d2-si.fr/"&gt;D2SI&lt;/a&gt;, merci à Julien pour son accueil. Nous
+avons partagé un bon moment dans une ambiance détendue. Suite à pas
+mal de changements dans le programme …&lt;/p&gt;</summary><content type="html">&lt;p&gt;20h, un soir d'hiver, sous les toits parisiens, un vidéoprojecteur s'allume...&lt;/p&gt;
 &lt;p&gt;C'est le début du premier meetup Salt de 2016, hébergés et régalés par
 &lt;a class="reference external" href="http://www.d2-si.fr/"&gt;D2SI&lt;/a&gt;, merci à Julien pour son accueil. Nous
 avons partagé un bon moment dans une ambiance détendue. Suite à pas
@@ -39,7 +65,12 @@ introduction plus générale à Salt déjà présentée lors des &lt;a class="re
 et &lt;a class="reference external" href="https://www.jres.org/fr/videotheque?iditem=182&amp;amp;resolution=480"&gt;la video&lt;/a&gt;
 sont en ligne sur le site de &lt;a class="reference external" href="https://www.jres.org/programme"&gt;JRES&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</summary><category term="compte rendu"></category><category term="salt"></category></entry><entry><title>Compte rendu (sommaire) du meetup Salt Paris de décembre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-sommaire-du-meetup-salt-paris-de-decembre-2015.html" rel="alternate"></link><updated>2016-01-20T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2016-01-20:compte-rendu-sommaire-du-meetup-salt-paris-de-decembre-2015.html</id><summary type="html">&lt;p&gt;Le jeudi 17 decembre 2015, &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html"&gt;comme annoncé&lt;/a&gt;,
+</content><category term="compte rendu"></category><category term="salt"></category></entry><entry><title>Compte rendu (sommaire) du meetup Salt Paris de décembre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-sommaire-du-meetup-salt-paris-de-decembre-2015.html" rel="alternate"></link><published>2016-01-20T00:00:00+01:00</published><updated>2016-01-20T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2016-01-20:/compte-rendu-sommaire-du-meetup-salt-paris-de-decembre-2015.html</id><summary type="html">&lt;p&gt;Le jeudi 17 decembre 2015, &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html"&gt;comme annoncé&lt;/a&gt;,
+une partie de la communauté Salt s'est réuni autour de trois
+présentation dans les locaux de Vivendi / Canal+.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Retour d'expérience : Un peu de sel pour être HAPI - Metin OSMAN (Canal+)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metin Osman nous a présenté un retour d’expérience sur l'utilisation
+de Salt …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Le jeudi 17 decembre 2015, &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html"&gt;comme annoncé&lt;/a&gt;,
 une partie de la communauté Salt s'est réuni autour de trois
 présentation dans les locaux de Vivendi / Canal+.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Retour d'expérience : Un peu de sel pour être HAPI - Metin OSMAN (Canal+)&lt;/strong&gt;&lt;/p&gt;
@@ -77,7 +108,12 @@ par &lt;a class="reference external" href="https://twitter.com/Djiit"&gt;Julien&
 &lt;/ul&gt;
 &lt;p&gt;Merci à &lt;a class="reference external" href="http://canalplus.github.io/"&gt;Canal+&lt;/a&gt; / Vivendi pour le lieu. Merci à &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; pour les pizzas &amp;amp; bières.&lt;/p&gt;
 &lt;p&gt;La suite : un meetup en février ?&lt;/p&gt;
-</summary><category term="supervision"></category><category term="web"></category><category term="saltpad"></category><category term="logilab"></category><category term="tinyclues"></category><category term="canal+"></category></entry><entry><title>Annonce : Meetup Salt décembre 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html" rel="alternate"></link><updated>2015-11-17T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-11-17:annonce-meetup-salt-decembre-2015.html</id><summary type="html">&lt;p&gt;Le meetup de décembre de Salt se déroulera le jeudi 17 décembre à partir de 19h, autour des sujets suivants :&lt;/p&gt;
+</content><category term="supervision"></category><category term="web"></category><category term="saltpad"></category><category term="logilab"></category><category term="tinyclues"></category><category term="canal+"></category></entry><entry><title>Annonce : Meetup Salt décembre 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-decembre-2015.html" rel="alternate"></link><published>2015-11-17T00:00:00+01:00</published><updated>2015-11-17T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-11-17:/annonce-meetup-salt-decembre-2015.html</id><summary type="html">&lt;p&gt;Le meetup de décembre de Salt se déroulera le jeudi 17 décembre à partir de 19h, autour des sujets suivants :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -
+&lt;a class="reference external" href="https://twitter.com/arthurlutz"&gt;Arthur Lutz&lt;/a&gt; (&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Retour d'expérience : Un peu de sel pour être HAPI - &lt;a class="reference external" href="https://twitter.com/mrcitron"&gt;Metin OSMAN&lt;/a&gt; (&lt;a class="reference external" href="http://canalplus.github.io/"&gt;Canal+&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Une interface web open-source pour Salt …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Le meetup de décembre de Salt se déroulera le jeudi 17 décembre à partir de 19h, autour des sujets suivants :&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;La supervision pilotée par Salt avec carbon/graphite/grafana -
 &lt;a class="reference external" href="https://twitter.com/arthurlutz"&gt;Arthur Lutz&lt;/a&gt; (&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
@@ -92,7 +128,13 @@ courte introduction de Salt en début de meetup.&lt;/p&gt;
 75008 Paris&lt;/a&gt; (Metro Charles De Gaulle Etoile).&lt;/p&gt;
 &lt;p&gt;Le meetup est gratuit mais il faut s'inscrire
 sur &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/226831550/"&gt;meetup.com&lt;/a&gt;.&lt;/p&gt;
-</summary><category term="annonces"></category><category term="supervision"></category><category term="web"></category><category term="saltpad"></category></entry><entry><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html" rel="alternate"></link><updated>2015-10-08T00:00:00+02:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2015-10-08:compte-rendu-salt-meetup-paris-octobre-2015.html</id><summary type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+</content><category term="annonces"></category><category term="supervision"></category><category term="web"></category><category term="saltpad"></category></entry><entry><title>Compte rendu Salt Meetup Paris - octobre 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-octobre-2015.html" rel="alternate"></link><published>2015-10-08T00:00:00+02:00</published><updated>2015-10-08T00:00:00+02:00</updated><author><name>Paul Tonelli</name></author><id>tag:salt-fr.afpy.org,2015-10-08:/compte-rendu-salt-meetup-paris-octobre-2015.html</id><summary type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
+&lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt; avec des pizzas offertes par &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;. Nous avons pu discuter
+tranquillement de:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Chiffrage au sein des fichiers salt, présenté par Ronan Amicel (&lt;a class="reference external" href="http://www.pocketsensei.fr/"&gt;Pocket
+Sensei&lt;/a&gt;): plutôt que de devoir sécuriser l'intégralité d'un dépot il est
+possible d'ajouter au sein …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Les utilisateurs de salt parisiens ont à nouveau frappé, accueillis chez
 &lt;a class="reference external" href="http://www.weborama.com/fr/"&gt;Weborama&lt;/a&gt; avec des pizzas offertes par &lt;a class="reference external" href="http://www.heuritech.com/"&gt;Heuritech&lt;/a&gt;. Nous avons pu discuter
 tranquillement de:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -112,7 +154,13 @@ l'ajout d'une machine. La suite avec le réactor lors d'un prochain meetup.&lt;/
 &lt;/ul&gt;
 &lt;img alt="Meetup Salt octobre 2015" src="./images/salt-oct-2015.jpg" style="width: 600px;" /&gt;
 &lt;p&gt;N'hésitez pas à en parler sur &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;la liste de discussion&lt;/a&gt;.&lt;/p&gt;
-</summary><category term="compte rendu"></category><category term="salt"></category><category term="gpg"></category><category term="peer-publish"></category></entry><entry><title>Compte rendu "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/compte-rendu-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-07-17T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-07-17:compte-rendu-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Comme &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html"&gt;annoncé sur ce blog&lt;/a&gt;,
+</content><category term="compte rendu"></category><category term="salt"></category><category term="gpg"></category><category term="peer-publish"></category></entry><entry><title>Compte rendu "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/compte-rendu-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><published>2015-07-17T00:00:00+02:00</published><updated>2015-07-17T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-07-17:/compte-rendu-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Comme &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html"&gt;annoncé sur ce blog&lt;/a&gt;,
+le meetup de juin était un peu particulier. Nous avons rassemblé
+plusieurs frameworks pour discuter comparativement des technologies
+similaires à Salt. Nous sommes ressortis avec une idée plus précise des
+forces et faiblesses de chacun, mais aussi des idées pour améliorer
+&lt;a class="reference external" href="http://saltstack.org"&gt;Salt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Voici les &lt;a class="reference external" href="http://slides.com/arthurlogilab/meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-p-uppet#/"&gt;diapositives …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Comme &lt;a class="reference external" href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html"&gt;annoncé sur ce blog&lt;/a&gt;,
 le meetup de juin était un peu particulier. Nous avons rassemblé
 plusieurs frameworks pour discuter comparativement des technologies
 similaires à Salt. Nous sommes ressortis avec une idée plus précise des
@@ -160,7 +208,12 @@ plusieurs personnes ont montré un intérêt pour ce type de débat,
 notamment dans d'autres villes que Paris (Lyon, Rennes, Nantes),
 n'hésitez pas à nous en parler sur &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;la liste de discussion&lt;/a&gt; pour qu'on réitère
 l'expérience.&lt;/p&gt;
-</summary><category term="compte rendu"></category><category term="puppet"></category><category term="chef"></category><category term="ansible"></category><category term="salt"></category></entry><entry><title>Annonce : Meetup Salt "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><updated>2015-06-05T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-06-05:annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
+</content><category term="compte rendu"></category><category term="puppet"></category><category term="chef"></category><category term="ansible"></category><category term="salt"></category></entry><entry><title>Annonce : Meetup Salt "Table ronde et Comparaison des frameworks" Salt Ansible Chef Puppet</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html" rel="alternate"></link><published>2015-06-05T00:00:00+02:00</published><updated>2015-06-05T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-06-05:/annonce-meetup-salt-table-ronde-et-comparaison-des-frameworks-salt-ansible-chef-puppet.html</id><summary type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
+pour défendres les &amp;quot;autres&amp;quot; frameworks. Et oui, la communauté nous
+demande souvent comment &lt;a class="reference external" href="http://saltstack.org"&gt;Salt&lt;/a&gt; se compare à
+des frameworks comme &lt;a class="reference external" href="http://puppetlabs.com/"&gt;Puppet&lt;/a&gt;, &lt;a class="reference external" href="http://chef.io"&gt;Chef&lt;/a&gt; ou &lt;a class="reference external" href="http://ansible.com"&gt;Ansible&lt;/a&gt;. Avantages,
+inconvénients, tailles des ecosystèmes, architecture, nous essayerons
+d'aborder tous les points qui …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Le meetup de juin est un peu spécial: nous avons invité des personnes
 pour défendres les &amp;quot;autres&amp;quot; frameworks. Et oui, la communauté nous
 demande souvent comment &lt;a class="reference external" href="http://saltstack.org"&gt;Salt&lt;/a&gt; se compare à
 des frameworks comme &lt;a class="reference external" href="http://puppetlabs.com/"&gt;Puppet&lt;/a&gt;, &lt;a class="reference external" href="http://chef.io"&gt;Chef&lt;/a&gt; ou &lt;a class="reference external" href="http://ansible.com"&gt;Ansible&lt;/a&gt;. Avantages,
@@ -191,7 +244,11 @@ vous avant qu'il n'y ait plus de places pour ce meetup un peu
 exceptionnel !&lt;/p&gt;
 &lt;p&gt;Comme d'habitude, nous aurons de quoi manger et boire pour continuer
 les discussion après le débat.&lt;/p&gt;
-</summary><category term="annonces"></category><category term="puppet"></category><category term="chef"></category><category term="ansible"></category><category term="salt"></category></entry><entry><title>Compte rendu Salt Meetup Paris - avril 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-avril-2015.html" rel="alternate"></link><updated>2015-04-16T00:00:00+02:00</updated><author><name>Aurélien Minet</name></author><id>tag:salt-fr.afpy.org,2015-04-16:compte-rendu-salt-meetup-paris-avril-2015.html</id><summary type="html">&lt;p&gt;Une petite trentaine de membres de la communauté Salt parisienne a été
+</content><category term="annonces"></category><category term="puppet"></category><category term="chef"></category><category term="ansible"></category><category term="salt"></category></entry><entry><title>Compte rendu Salt Meetup Paris - avril 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-avril-2015.html" rel="alternate"></link><published>2015-04-16T00:00:00+02:00</published><updated>2015-04-16T00:00:00+02:00</updated><author><name>Aurélien Minet</name></author><id>tag:salt-fr.afpy.org,2015-04-16:/compte-rendu-salt-meetup-paris-avril-2015.html</id><summary type="html">&lt;p&gt;Une petite trentaine de membres de la communauté Salt parisienne a été
+accueilli dans les nouveaux locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;Tinyclues&lt;/a&gt; pour ce meetup. Merci
+également à &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; qui a sponsorisé la nourriture.&lt;/p&gt;
+&lt;p&gt;Nicolas Chauvat PDG de Logilab a &lt;a class="reference external" href="http://www.logilab.fr/blogentry/2306"&gt;annoncé son partenariat avec
+SaltStack pour assurer la formation, le support et la …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Une petite trentaine de membres de la communauté Salt parisienne a été
 accueilli dans les nouveaux locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;Tinyclues&lt;/a&gt; pour ce meetup. Merci
 également à &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; qui a sponsorisé la nourriture.&lt;/p&gt;
 &lt;p&gt;Nicolas Chauvat PDG de Logilab a &lt;a class="reference external" href="http://www.logilab.fr/blogentry/2306"&gt;annoncé son partenariat avec
@@ -265,7 +322,14 @@ parallélisation, sa consistance et son mode multi-master (actif-actif).&lt;/p&g
 par Logilab&lt;/a&gt;.&lt;/p&gt;
 &lt;img alt="bagels et companie" class="align-center" src="./images/salt-2015-avril.jpg" /&gt;
 &lt;/div&gt;
-</summary><category term="cr"></category><category term="tinyclues"></category><category term="logilab"></category><category term="enterprise"></category><category term="ui"></category><category term="ansible"></category><category term="REx"></category></entry><entry><title>Annonce : Meetup Salt Paris chez tinyclues - avril 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html" rel="alternate"></link><updated>2015-04-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-04-09:annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html</id><summary type="html">&lt;p&gt;Le meetup d'avril aura lieu dans les locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BOd3U_a?layers=T&amp;amp;m=&amp;amp;node=689346070"&gt;1 rue du mail 75002, Paris&lt;/a&gt;, métro
+</content><category term="cr"></category><category term="tinyclues"></category><category term="logilab"></category><category term="enterprise"></category><category term="ui"></category><category term="ansible"></category><category term="REx"></category></entry><entry><title>Annonce : Meetup Salt Paris chez tinyclues - avril 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html" rel="alternate"></link><published>2015-04-09T00:00:00+02:00</published><updated>2015-04-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-04-09:/annonce-meetup-salt-paris-chez-tinyclues-avril-2015.html</id><summary type="html">&lt;p&gt;Le meetup d'avril aura lieu dans les locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BOd3U_a?layers=T&amp;amp;m=&amp;amp;node=689346070"&gt;1 rue du mail 75002, Paris&lt;/a&gt;, métro
+Bourse. Jeudi 16 avril à 19h.&lt;/p&gt;
+&lt;img alt="tinyclues" src="./images/tinyclues.png" /&gt;
+&lt;p&gt;Programme :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;L'utilisation de la nouvelle feature de chiffrage dans la 2014.7 par
+&lt;a class="reference external" href="https://twitter.com/amicel"&gt;Ronan Amicel&lt;/a&gt; (&lt;a class="reference external" href="http://www.pocketsensei.fr/"&gt;Pocket Sensei&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Présentation et utilisation de la Salt Mine par Damien …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Le meetup d'avril aura lieu dans les locaux de &lt;a class="reference external" href="http://www.tinyclues.com/"&gt;tinyclues&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BOd3U_a?layers=T&amp;amp;m=&amp;amp;node=689346070"&gt;1 rue du mail 75002, Paris&lt;/a&gt;, métro
 Bourse. Jeudi 16 avril à 19h.&lt;/p&gt;
 &lt;img alt="tinyclues" src="./images/tinyclues.png" /&gt;
 &lt;p&gt;Programme :&lt;/p&gt;
@@ -277,7 +341,12 @@ Bourse. Jeudi 16 avril à 19h.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Le meetup est gratuit mais il faut s'inscrire (limité à 50 places) sur
 &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/221368010/"&gt;meetup.com&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=2.3272132873535156%2C48.859096398721896%2C2.355494499206543%2C48.87364920086141&amp;amp;layer=transportmap" style="border: 1px solid black"&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href="http://www.openstreetmap.org/#map=16/48.8664/2.3414&amp;amp;layers=T"&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;</summary><category term="annonces"></category></entry><entry><title>Compte rendu du sprint chez Logilab</title><link href="http://salt-fr.afpy.org/compte-rendu-du-sprint-chez-logilab.html" rel="alternate"></link><updated>2015-03-06T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-03-06:compte-rendu-du-sprint-chez-logilab.html</id><summary type="html">&lt;p&gt;Juste un petit post pour dire que &lt;a class="reference external" href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html"&gt;le sprint sur Salt&lt;/a&gt; a
+&lt;iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=2.3272132873535156%2C48.859096398721896%2C2.355494499206543%2C48.87364920086141&amp;amp;layer=transportmap" style="border: 1px solid black"&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href="http://www.openstreetmap.org/#map=16/48.8664/2.3414&amp;amp;layers=T"&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;</content><category term="annonces"></category></entry><entry><title>Compte rendu du sprint chez Logilab</title><link href="http://salt-fr.afpy.org/compte-rendu-du-sprint-chez-logilab.html" rel="alternate"></link><published>2015-03-06T00:00:00+01:00</published><updated>2015-03-06T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-03-06:/compte-rendu-du-sprint-chez-logilab.html</id><summary type="html">&lt;p&gt;Juste un petit post pour dire que &lt;a class="reference external" href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html"&gt;le sprint sur Salt&lt;/a&gt; a
+rassemblé 7 personnes dans les locaux de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; et que nous en avons bien profité et réussi
+à produire quelques contributions à salt (patches de codes, réflexions
+sous forme de tickets, etc).&lt;/p&gt;
+&lt;img alt="Participants au sprint Salt 2015" class="align-center" src="../images/IMG_3034.JPG" /&gt;
+&lt;p&gt;Merci à tous les participants d'être …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Juste un petit post pour dire que &lt;a class="reference external" href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html"&gt;le sprint sur Salt&lt;/a&gt; a
 rassemblé 7 personnes dans les locaux de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; et que nous en avons bien profité et réussi
 à produire quelques contributions à salt (patches de codes, réflexions
 sous forme de tickets, etc).&lt;/p&gt;
@@ -285,7 +354,12 @@ sous forme de tickets, etc).&lt;/p&gt;
 &lt;p&gt;Merci à tous les participants d'être venus contribuer et échanger.&lt;/p&gt;
 &lt;p&gt;Le compte rendu détaillé en anglais est publié sur un blog de Logilab : &lt;a class="reference external" href="http://www.logilab.org/288007"&gt;A
 report on the Salt Sprint 2015 in Paris&lt;/a&gt;&lt;/p&gt;
-</summary><category term="sprint"></category><category term="saltconf"></category><category term="logilab"></category></entry><entry><title>Sprint Salt en marge de la SaltConf</title><link href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html" rel="alternate"></link><updated>2015-02-19T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-19:sprint-salt-en-marge-de-la-saltconf.html</id><summary type="html">&lt;p&gt;Que diriez vous de venir faire un petit &lt;a class="reference external" href="https://fr.wikipedia.org/wiki/Sprint_%28d%C3%A9veloppement_logiciel%29"&gt;sprint&lt;/a&gt;
+</content><category term="sprint"></category><category term="saltconf"></category><category term="logilab"></category></entry><entry><title>Sprint Salt en marge de la SaltConf</title><link href="http://salt-fr.afpy.org/sprint-salt-en-marge-de-la-saltconf.html" rel="alternate"></link><published>2015-02-19T00:00:00+01:00</published><updated>2015-02-19T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-19:/sprint-salt-en-marge-de-la-saltconf.html</id><summary type="html">&lt;p&gt;Que diriez vous de venir faire un petit &lt;a class="reference external" href="https://fr.wikipedia.org/wiki/Sprint_%28d%C3%A9veloppement_logiciel%29"&gt;sprint&lt;/a&gt;
+en marge de la &lt;a class="reference external" href="http://saltconf.com/agenda/"&gt;SaltConf&lt;/a&gt; (qui a prévu
+un sprint le mercredi 4 mars 2015 en soirée) dans les locaux de
+Logilab ? Celui-ci aurait donc lieu le même jour, le mercredi 4 mars,
+de 9h à 18h.&lt;/p&gt;
+&lt;p&gt;L'idée est d'avoir une …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Que diriez vous de venir faire un petit &lt;a class="reference external" href="https://fr.wikipedia.org/wiki/Sprint_%28d%C3%A9veloppement_logiciel%29"&gt;sprint&lt;/a&gt;
 en marge de la &lt;a class="reference external" href="http://saltconf.com/agenda/"&gt;SaltConf&lt;/a&gt; (qui a prévu
 un sprint le mercredi 4 mars 2015 en soirée) dans les locaux de
 Logilab ? Celui-ci aurait donc lieu le même jour, le mercredi 4 mars,
@@ -299,7 +373,14 @@ d'électricité s'était plutôt bien passé.&lt;/p&gt;
 &lt;p&gt;Pour qu'on puisse savoir le nombre de participants en avance, merci de
 remplir &lt;a class="reference external" href="https://framadate.org/z7mvrnwcxmc7o3l4"&gt;le framadate&lt;/a&gt; (avec
 possibilité de participer sur IRC, mais bon, c'est pas idéal).&lt;/p&gt;
-</summary><category term="annonce"></category><category term="sprint"></category><category term="saltconf"></category></entry><entry><title>Compte rendu Salt Meetup Paris - février 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-fevrier-2015.html" rel="alternate"></link><updated>2015-02-16T00:00:00+01:00</updated><author><name>David Douard</name></author><id>tag:salt-fr.afpy.org,2015-02-16:compte-rendu-salt-meetup-paris-fevrier-2015.html</id><summary type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
+</content><category term="annonce"></category><category term="sprint"></category><category term="saltconf"></category></entry><entry><title>Compte rendu Salt Meetup Paris - février 2015</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-fevrier-2015.html" rel="alternate"></link><published>2015-02-16T00:00:00+01:00</published><updated>2015-02-16T00:00:00+01:00</updated><author><name>David Douard</name></author><id>tag:salt-fr.afpy.org,2015-02-16:/compte-rendu-salt-meetup-paris-fevrier-2015.html</id><summary type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
+dans les locaux parisiens de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; pour son premier &lt;em&gt;meetup&lt;/em&gt; de
+l'année, autour de trois présentations. Voici un compte rendu (très
+court) pour vous renvoyer vers les références.&lt;/p&gt;
+&lt;img alt="David Douard" src="../images/saltmeetup_douardda.jpg" /&gt;
+&lt;div class="section" id="utiliser-salt-dans-des-docker"&gt;
+&lt;h2&gt;Utiliser salt dans des docker&lt;/h2&gt;
+&lt;p&gt;David Douard de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une rapide …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;La communauté Salt française (ou plutôt francilienne) s'est réunie
 dans les locaux parisiens de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; pour son premier &lt;em&gt;meetup&lt;/em&gt; de
 l'année, autour de trois présentations. Voici un compte rendu (très
 court) pour vous renvoyer vers les références.&lt;/p&gt;
@@ -359,7 +440,13 @@ les pizzas.&lt;/p&gt;
 à inscrire une proposition de présentation ou de lieu sur le &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;pad
 d'organisation&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="cr"></category><category term="dailymotion"></category></entry><entry><title>Annonce : Meetup Salt Paris chez Dailymotion - Fevrier 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html" rel="alternate"></link><updated>2015-02-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-11:annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html</id><summary type="html">&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
+</content><category term="cr"></category><category term="dailymotion"></category></entry><entry><title>Annonce : Meetup Salt Paris chez Dailymotion - Fevrier 2015</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html" rel="alternate"></link><published>2015-02-11T00:00:00+01:00</published><updated>2015-02-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2015-02-11:/annonce-meetup-salt-paris-chez-dailymotion-fevrier-2015.html</id><summary type="html">&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
+Malesherbes.&lt;/p&gt;
+&lt;img alt="Dailymotion" src="./images/dailymotion.png" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.logilab.fr/id/david.douard"&gt;David Douard&lt;/a&gt; de &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; présentera &amp;quot;Faire du Salt dans et avec des
+docker&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Il reste encore des places pour faire des présentations
+éclairs. Contactez nous sur la &lt;a class="reference external" href="http://lists.afpy.org/listinfo/salt-fr"&gt;liste&lt;/a&gt; pour …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Le meetup de février aura lieu dans les locaux de &lt;a class="reference external" href="http://dailymotion.fr/"&gt;Dailymotion&lt;/a&gt; au &lt;a class="reference external" href="http://osm.org/go/0BPIND5F?node=2121959585"&gt;140 boulevard Malesherbes, Paris 17e&lt;/a&gt;, métro Wagram ou
 Malesherbes.&lt;/p&gt;
 &lt;img alt="Dailymotion" src="./images/dailymotion.png" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.logilab.fr/id/david.douard"&gt;David Douard&lt;/a&gt; de &lt;a class="reference external" href="http://www.logilab.fr/"&gt;Logilab&lt;/a&gt; présentera &amp;quot;Faire du Salt dans et avec des
@@ -369,7 +456,12 @@ docker&amp;quot;.&lt;/p&gt;
 proposition de présentation.&lt;/p&gt;
 &lt;p&gt;Le meetup est gratuit mais il faut s'inscrire (limité à 50 places) sur
 &lt;a class="reference external" href="http://www.meetup.com/Paris-Salt-Meetup/events/220110646/"&gt;meetup.com&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe width="425" height="350" frameborder="0" scrolling="no"  marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=2.29539155960083%2C48.877544286231874%2C2.323672771453857%2C48.89209172348569&amp;amp;layer=mapnik" style="border: 1px solid black"&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href="http://www.openstreetmap.org/#map=16/48.8848/2.3095"&gt;View  Larger Map&lt;/a&gt;&lt;/small&gt;</summary><category term="annonces"></category></entry><entry><title>Compte rendu Salt Meetup Paris - novembre 2014</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-novembre-2014.html" rel="alternate"></link><updated>2014-12-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-12-11:compte-rendu-salt-meetup-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;La communauté Salt s'est a nouveau réunie pour son meetup bi-mestriel
+&lt;iframe width="425" height="350" frameborder="0" scrolling="no"  marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=2.29539155960083%2C48.877544286231874%2C2.323672771453857%2C48.89209172348569&amp;amp;layer=mapnik" style="border: 1px solid black"&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href="http://www.openstreetmap.org/#map=16/48.8848/2.3095"&gt;View  Larger Map&lt;/a&gt;&lt;/small&gt;</content><category term="annonces"></category></entry><entry><title>Compte rendu Salt Meetup Paris - novembre 2014</title><link href="http://salt-fr.afpy.org/compte-rendu-salt-meetup-paris-novembre-2014.html" rel="alternate"></link><published>2014-12-11T00:00:00+01:00</published><updated>2014-12-11T00:00:00+01:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-12-11:/compte-rendu-salt-meetup-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;La communauté Salt s'est a nouveau réunie pour son meetup bi-mestriel
+autour de trois présentations. Voici un compte rendu (très court) pour
+vous renvoyer vers les références.&lt;/p&gt;
+&lt;div class="section" id="utilisation-de-salt-pour-gerer-des-machines-desktop-sous-windows-et-mac-os"&gt;
+&lt;h2&gt;Utilisation de salt pour gérer des machines desktop sous windows et mac os.&lt;/h2&gt;
+&lt;p&gt;Aurélien Minet de l'&lt;a class="reference external" href="http://www.ens-cachan.fr/"&gt;ENS  Cachan&lt;/a&gt; nous a présenté son …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;La communauté Salt s'est a nouveau réunie pour son meetup bi-mestriel
 autour de trois présentations. Voici un compte rendu (très court) pour
 vous renvoyer vers les références.&lt;/p&gt;
 &lt;div class="section" id="utilisation-de-salt-pour-gerer-des-machines-desktop-sous-windows-et-mac-os"&gt;
@@ -432,13 +524,23 @@ les pizzas.&lt;/p&gt;
 à inscrire une proposition de présentation ou de lieu sur le &lt;a class="reference external" href="http://lite4.framapad.org/p/organisation-salt-meetups"&gt;pad
 d'organisation&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
-</summary><category term="cr"></category><category term="tinyclues"></category><category term="stats"></category><category term="ui"></category></entry><entry><title>Annonce : Logilab présente Saltstack le 3 novembre à la cantine Toulouse</title><link href="http://salt-fr.afpy.org/annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html" rel="alternate"></link><updated>2014-10-24T00:00:00+02:00</updated><author><name>Denis Laxalde</name></author><id>tag:salt-fr.afpy.org,2014-10-24:annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html</id><summary type="html">&lt;p&gt;Logilab vous invite le lundi 3 novembre à une présentation de Salt à la
+</content><category term="cr"></category><category term="tinyclues"></category><category term="stats"></category><category term="ui"></category></entry><entry><title>Annonce : Logilab présente Saltstack le 3 novembre à la cantine Toulouse</title><link href="http://salt-fr.afpy.org/annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html" rel="alternate"></link><published>2014-10-24T00:00:00+02:00</published><updated>2014-10-24T00:00:00+02:00</updated><author><name>Denis Laxalde</name></author><id>tag:salt-fr.afpy.org,2014-10-24:/annonce-logilab-presente-saltstack-le-3-novembre-a-la-cantine-toulouse.html</id><summary type="html">&lt;p&gt;Logilab vous invite le lundi 3 novembre à une présentation de Salt à la
+&lt;a class="reference external" href="http://lacantine-toulouse.org/"&gt;cantine de Toulouse&lt;/a&gt;. Cela se passera de 18
+à 20h, avec une présentation suivie d'un moment convivial autour d'un apéritif
+afin de continuer la discussion.&lt;/p&gt;
+&lt;p&gt;Plus d'information et inscription sur la &lt;a class="reference external" href="http://lacantine-toulouse.org/6889/saltstack-une-nouvelle-approche-pour-la-gestion-de-vos-infrastructures"&gt;page de l'événement&lt;/a&gt;
+à la …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Logilab vous invite le lundi 3 novembre à une présentation de Salt à la
 &lt;a class="reference external" href="http://lacantine-toulouse.org/"&gt;cantine de Toulouse&lt;/a&gt;. Cela se passera de 18
 à 20h, avec une présentation suivie d'un moment convivial autour d'un apéritif
 afin de continuer la discussion.&lt;/p&gt;
 &lt;p&gt;Plus d'information et inscription sur la &lt;a class="reference external" href="http://lacantine-toulouse.org/6889/saltstack-une-nouvelle-approche-pour-la-gestion-de-vos-infrastructures"&gt;page de l'événement&lt;/a&gt;
 à la cantine.&lt;/p&gt;
-</summary><category term="annonces"></category><category term="toulouse"></category><category term="la cantine"></category></entry><entry><title>Annonce : Meetup Salt Paris - Novembre 2014</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-novembre-2014.html" rel="alternate"></link><updated>2014-10-21T00:00:00+02:00</updated><author><name>Boris Feld</name></author><id>tag:salt-fr.afpy.org,2014-10-21:annonce-meetup-salt-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;Oyez, oyez salters, notre prochain meetup se déroulera le mardi 18
+</content><category term="annonces"></category><category term="toulouse"></category><category term="la cantine"></category></entry><entry><title>Annonce : Meetup Salt Paris - Novembre 2014</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-novembre-2014.html" rel="alternate"></link><published>2014-10-21T00:00:00+02:00</published><updated>2014-10-21T00:00:00+02:00</updated><author><name>Boris Feld</name></author><id>tag:salt-fr.afpy.org,2014-10-21:/annonce-meetup-salt-paris-novembre-2014.html</id><summary type="html">&lt;p&gt;Oyez, oyez salters, notre prochain meetup se déroulera le mardi 18
+novembre à partir de 19h chez tinyclues qui est fier de nous héberger
+et de pouvoir sponsoriser cet évènement.&lt;/p&gt;
+&lt;p&gt;Voici la liste des présentations qui seront données :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Salt et la gestion d'un parc de postes utilisateurs, &lt;a class="reference external" href="http://caskroom.io/"&gt;homebrew cask&lt;/a&gt; pour …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Oyez, oyez salters, notre prochain meetup se déroulera le mardi 18
 novembre à partir de 19h chez tinyclues qui est fier de nous héberger
 et de pouvoir sponsoriser cet évènement.&lt;/p&gt;
 &lt;p&gt;Voici la liste des présentations qui seront données :&lt;/p&gt;
@@ -468,7 +570,11 @@ France
 Métro Réaumur - Sébastopol ou Strasbourg Saint-Denis.
 &lt;/pre&gt;
 &lt;p&gt;En espérant vous voir nombreux, saltez bien !&lt;/p&gt;
-</summary><category term="annonces"></category></entry><entry><title>Rencontres Salt à Mozilla Paris</title><link href="http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html" rel="alternate"></link><updated>2014-09-23T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-23:rencontres-salt-a-mozilla-paris.html</id><summary type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
+</content><category term="annonces"></category></entry><entry><title>Rencontres Salt à Mozilla Paris</title><link href="http://salt-fr.afpy.org/rencontres-salt-a-mozilla-paris.html" rel="alternate"></link><published>2014-09-23T00:00:00+02:00</published><updated>2014-09-23T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-23:/rencontres-salt-a-mozilla-paris.html</id><summary type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
+locaux de &lt;a class="reference external" href="https://wiki.mozilla.org/Paris"&gt;Mozilla Paris&lt;/a&gt;, merci à eux!&lt;/p&gt;
+&lt;p&gt;Pour la partie du public qui découvrait salt, Arthur Lutz de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une introduction à Salt.&lt;/p&gt;
+&lt;img alt="Arthur Lutz" src="./images/salt-sept-2014-01.jpg" /&gt;
+&lt;p&gt;Cyril Lavier nous à présenté l'utilisation de Salt chez …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Pour ce 4ème meetup parisien des utilisateurs de &lt;a class="reference external" href="http://www.saltstack.org"&gt;Salt&lt;/a&gt;, nous étions acceuilli dans le luxe des
 locaux de &lt;a class="reference external" href="https://wiki.mozilla.org/Paris"&gt;Mozilla Paris&lt;/a&gt;, merci à eux!&lt;/p&gt;
 &lt;p&gt;Pour la partie du public qui découvrait salt, Arthur Lutz de &lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt; a fait une introduction à Salt.&lt;/p&gt;
 &lt;img alt="Arthur Lutz" src="./images/salt-sept-2014-01.jpg" /&gt;
@@ -493,7 +599,15 @@ configuration en nous présentant la distribution linux &lt;a class="reference e
 d'organisation&lt;/a&gt; sur lequel
 vous pouvez faire des propositions de présentations. Vous pouvez aussi
 voter pour la date du &lt;a class="reference external" href="http://framadate.org/emr4ccijuvnxqctz"&gt;meetup de novembre 2014&lt;/a&gt;.&lt;/p&gt;
-</summary><category term="cr"></category><category term="mozilla"></category><category term="samba"></category><category term="nixos"></category><category term="lx"></category><category term="dns"></category><category term="dhcp"></category></entry><entry><title>Annonce : Meetup Salt Paris - Septembre 2014</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-septembre-2014.html" rel="alternate"></link><updated>2014-09-19T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-19:annonce-meetup-salt-paris-septembre-2014.html</id><summary type="html">&lt;p&gt;Voici notre petit sélection pour démarrer notre meetup de la semaine
+</content><category term="cr"></category><category term="mozilla"></category><category term="samba"></category><category term="nixos"></category><category term="lx"></category><category term="dns"></category><category term="dhcp"></category></entry><entry><title>Annonce : Meetup Salt Paris - Septembre 2014</title><link href="http://salt-fr.afpy.org/annonce-meetup-salt-paris-septembre-2014.html" rel="alternate"></link><published>2014-09-19T00:00:00+02:00</published><updated>2014-09-19T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-19:/annonce-meetup-salt-paris-septembre-2014.html</id><summary type="html">&lt;p&gt;Voici notre petit sélection pour démarrer notre meetup de la semaine
+prochaine (mardi 23 septembre 2014 à 19h dans les locaux de de Mozilla
+Paris)  :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Retour d’expérience déploiement Salt chez Webedia (Cyril Lavier -
+&lt;a class="reference external" href="http://www.webedia.com"&gt;Webedia&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Génération de fichiers de zone internes par salt (Paul Tonelli -
+&lt;a class="reference external" href="http://www.logilab.fr"&gt;Logilab&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Construire du monitoring de …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Voici notre petit sélection pour démarrer notre meetup de la semaine
 prochaine (mardi 23 septembre 2014 à 19h dans les locaux de de Mozilla
 Paris)  :&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -514,7 +628,8 @@ questions de sécurité (et pour offrir à boire).&lt;/p&gt;
 &lt;p&gt;16 Bis Blvd. Montmartre
 Paris 75009
 France&lt;/p&gt;
-</summary><category term="annonces"></category></entry><entry><title>Hello World</title><link href="http://salt-fr.afpy.org/hello-world.html" rel="alternate"></link><updated>2014-09-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-09:hello-world.html</id><summary type="html">&lt;p&gt;Hello World.&lt;/p&gt;
+</content><category term="annonces"></category></entry><entry><title>Hello World</title><link href="http://salt-fr.afpy.org/hello-world.html" rel="alternate"></link><published>2014-09-09T00:00:00+02:00</published><updated>2014-09-09T00:00:00+02:00</updated><author><name>Arthur Lutz</name></author><id>tag:salt-fr.afpy.org,2014-09-09:/hello-world.html</id><summary type="html">&lt;p class="first last"&gt;Premier post sur le blog de la communauté salt&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Hello World.&lt;/p&gt;
 &lt;p&gt;Les meetups existent depuis XX.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://www.logilab.org/bookmark/264279/follow"&gt;Quelques comptes rendus des éditions précédentes.&lt;/a&gt;&lt;/p&gt;
-</summary><category term="hello"></category></entry></feed>
+</content><category term="hello"></category></entry></feed>
