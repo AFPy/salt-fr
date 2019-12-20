@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=salt-fr.afpy.org
 SSH_PORT=22
 SSH_USER=salt-fr-afpy-org
-SSH_TARGET_DIR=/var/www/salt.fr.afpy.org/
+SSH_TARGET_DIR=/var/www/salt-fr.afpy.org/
 
 S3_BUCKET=my_s3_bucket
 
