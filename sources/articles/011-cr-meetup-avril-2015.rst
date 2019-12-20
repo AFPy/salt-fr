@@ -1,9 +1,9 @@
-﻿Compte rendu Salt Meetup Paris - avril 2015
+Compte rendu Salt Meetup Paris - avril 2015
 ===========================================
 
 
 :date: 2015-04-16
-:tags: cr, tinyclues, logilab, enterprise, ui, ansible, REx 
+:tags: cr, tinyclues, logilab, enterprise, ui, ansible, REx
 :category: Compte Rendus
 :author: Aurélien Minet
 :email: amlabs@free.fr
@@ -101,4 +101,4 @@ par Logilab <http://www.logilab.fr>`_.
 
 .. image:: ./images/salt-2015-avril.jpg
   :align: center
-  :alt: bagels et companie 
+  :alt: bagels et companie
