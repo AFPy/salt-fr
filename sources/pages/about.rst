@@ -11,14 +11,13 @@ Salt-fr organise des meetups autour de `Salt
 Ce site a pour but de vous faire part des annonces des prochains
 évènements ainsi que présenter des comptes-rendus des meetups.
 
-N'hésitez pas à nous contacter sur `la mailing-list
-<http://lists.afpy.org/listinfo/salt-fr>`_ ou sur IRC :
-`irc://irc.freenode.net/#salt-fr
-<https://webchat.freenode.net/#salt-fr>`_.
+N'hésitez pas à nous contacter sur IRC :
+`irc://irc.libera.chat/#salt-fr
+<https://web.libera.chat/#salt-fr>`_.
 
 Les inscriptions aux meetup se font généralement sur des `framadate
 <http://framadate.org/>`_ crées pour l'ocassion. Vous pouvez aussi
-nous retrouver sur la plateforme http://www.meetup.com : 
+nous retrouver sur la plateforme http://www.meetup.com :
 http://www.meetup.com/Paris-Salt-Meetup/
 
 Merci à l'`AFPy <http://www.afpy.org>`_ d'héberger la mailing list et
@@ -42,4 +41,3 @@ Sprints : 26 juillet 2013
 `Photo <https://flic.kr/p/5dGxjj>`_ par `Kevin Dooley
 <https://www.flickr.com/photos/pagedooley/>`_ / `CC-BY
 <https://creativecommons.org/licenses/by/2.0/>`_
- 

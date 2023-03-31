@@ -24,7 +24,7 @@ Clichy.
 .. image:: ./images/logo-42.jpg
   :alt: École 42
 
-Voici la liste des intervenants : 
+Voici la liste des intervenants :
 
 * Mathieu Lecarme (`Bearstech <http://bearstech.com/>`_) `@athoune
   <https://twitter.com/athoune>`_ défendra Ansible.
@@ -44,9 +44,8 @@ Voici la liste des intervenants :
 
 Nous avons prévu un certain nombre de sujets et questions à poser aux
 intervenants, si vous avez des questions brûlantes, faites nous en
-part sur la `liste <http://lists.afpy.fr/listinfo/salt-fr>`_, sur `IRC
-(#salt-fr sur freenode) <irc://irc.freenode.net/#salt-fr>`_ ou sur
-twitter.
+part sur `IRC (#salt-fr sur libera.chat)
+<irc://irc.libera.chat/#salt-fr>`_ ou sur twitter.
 
 Le meetup est gratuit mais il faut s'inscrire (limité à 100 places)
 sur `meetup.com
@@ -56,4 +55,3 @@ exceptionnel !
 
 Comme d'habitude, nous aurons de quoi manger et boire pour continuer
 les discussion après le débat.
-
